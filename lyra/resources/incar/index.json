@@ -1,0 +1,3690 @@
+{
+  "schema_version": 1,
+  "dataset": {
+    "source_url": "https://vasp.at/wiki/Category:INCAR_tag",
+    "fetched_at": "2026-08-13T09:43:45Z",
+    "license_name": "GNU FDL 1.2",
+    "license_url": "https://www.gnu.org/licenses/old-licenses/fdl-1.2.txt",
+    "content_note_zh": "标签索引和页面修订元数据来自 VASP Wiki；中文知识正文由 Lyra 整理，不代表 VASP 官方翻译或官方建议。"
+  },
+  "records": [
+    {
+      "tag": "ADDGRID",
+      "url": "https://vasp.at/wiki/ADDGRID",
+      "revision_id": 35979,
+      "revision_timestamp": "2026-05-06T11:33:30Z"
+    },
+    {
+      "tag": "AEXX",
+      "url": "https://vasp.at/wiki/AEXX",
+      "revision_id": 33504,
+      "revision_timestamp": "2026-01-29T10:16:09Z"
+    },
+    {
+      "tag": "AGGAC",
+      "url": "https://vasp.at/wiki/AGGAC",
+      "revision_id": 23577,
+      "revision_timestamp": "2024-02-07T11:12:15Z"
+    },
+    {
+      "tag": "AGGAX",
+      "url": "https://vasp.at/wiki/AGGAX",
+      "revision_id": 24206,
+      "revision_timestamp": "2024-02-14T17:25:08Z"
+    },
+    {
+      "tag": "ALDAC",
+      "url": "https://vasp.at/wiki/ALDAC",
+      "revision_id": 23561,
+      "revision_timestamp": "2024-02-07T10:22:20Z"
+    },
+    {
+      "tag": "ALDAX",
+      "url": "https://vasp.at/wiki/ALDAX",
+      "revision_id": 24207,
+      "revision_timestamp": "2024-02-14T17:25:49Z"
+    },
+    {
+      "tag": "ALGO",
+      "url": "https://vasp.at/wiki/ALGO",
+      "revision_id": 37346,
+      "revision_timestamp": "2026-06-23T11:52:57Z"
+    },
+    {
+      "tag": "ALPHA_VDW",
+      "url": "https://vasp.at/wiki/ALPHA_VDW",
+      "revision_id": 24421,
+      "revision_timestamp": "2024-03-19T12:21:36Z"
+    },
+    {
+      "tag": "AMGGAC",
+      "url": "https://vasp.at/wiki/AMGGAC",
+      "revision_id": 25514,
+      "revision_timestamp": "2024-07-02T14:02:34Z"
+    },
+    {
+      "tag": "AMGGAX",
+      "url": "https://vasp.at/wiki/AMGGAX",
+      "revision_id": 25513,
+      "revision_timestamp": "2024-07-02T14:00:25Z"
+    },
+    {
+      "tag": "AMIN",
+      "url": "https://vasp.at/wiki/AMIN",
+      "revision_id": 27037,
+      "revision_timestamp": "2024-10-17T14:08:02Z"
+    },
+    {
+      "tag": "AMIX",
+      "url": "https://vasp.at/wiki/AMIX",
+      "revision_id": 27038,
+      "revision_timestamp": "2024-10-17T14:08:42Z"
+    },
+    {
+      "tag": "AMIX_MAG",
+      "url": "https://vasp.at/wiki/AMIX_MAG",
+      "revision_id": 27042,
+      "revision_timestamp": "2024-10-17T14:14:53Z"
+    },
+    {
+      "tag": "ANDERSEN_PROB",
+      "url": "https://vasp.at/wiki/ANDERSEN_PROB",
+      "revision_id": 16018,
+      "revision_timestamp": "2022-04-07T13:50:25Z"
+    },
+    {
+      "tag": "ANTIRES",
+      "url": "https://vasp.at/wiki/ANTIRES",
+      "revision_id": 15891,
+      "revision_timestamp": "2022-04-07T10:19:08Z"
+    },
+    {
+      "tag": "APACO",
+      "url": "https://vasp.at/wiki/APACO",
+      "revision_id": 16360,
+      "revision_timestamp": "2022-04-08T08:25:10Z"
+    },
+    {
+      "tag": "BANDGAP",
+      "url": "https://vasp.at/wiki/BANDGAP",
+      "revision_id": 37606,
+      "revision_timestamp": "2026-07-22T14:50:24Z"
+    },
+    {
+      "tag": "BEXT",
+      "url": "https://vasp.at/wiki/BEXT",
+      "revision_id": 35038,
+      "revision_timestamp": "2026-03-18T13:25:29Z"
+    },
+    {
+      "tag": "BEXX",
+      "url": "https://vasp.at/wiki/BEXX",
+      "revision_id": 34283,
+      "revision_timestamp": "2026-02-19T11:05:00Z"
+    },
+    {
+      "tag": "BMIX",
+      "url": "https://vasp.at/wiki/BMIX",
+      "revision_id": 28223,
+      "revision_timestamp": "2025-02-18T13:25:07Z"
+    },
+    {
+      "tag": "BMIX_MAG",
+      "url": "https://vasp.at/wiki/BMIX_MAG",
+      "revision_id": 28224,
+      "revision_timestamp": "2025-02-18T13:25:41Z"
+    },
+    {
+      "tag": "BPARAM",
+      "url": "https://vasp.at/wiki/BPARAM",
+      "revision_id": 35886,
+      "revision_timestamp": "2026-04-15T12:40:24Z"
+    },
+    {
+      "tag": "BSEELECTRON",
+      "url": "https://vasp.at/wiki/BSEELECTRON",
+      "revision_id": 24373,
+      "revision_timestamp": "2024-03-19T10:53:27Z"
+    },
+    {
+      "tag": "BSEHOLE",
+      "url": "https://vasp.at/wiki/BSEHOLE",
+      "revision_id": 24372,
+      "revision_timestamp": "2024-03-19T10:53:06Z"
+    },
+    {
+      "tag": "BSEPREC",
+      "url": "https://vasp.at/wiki/BSEPREC",
+      "revision_id": 31968,
+      "revision_timestamp": "2025-10-17T08:53:06Z"
+    },
+    {
+      "tag": "CHECKPOINT_FD",
+      "url": "https://vasp.at/wiki/CHECKPOINT_FD",
+      "revision_id": 34625,
+      "revision_timestamp": "2026-03-11T14:12:04Z"
+    },
+    {
+      "tag": "CH_AMPLIFICATION",
+      "url": "https://vasp.at/wiki/CH_AMPLIFICATION",
+      "revision_id": 30083,
+      "revision_timestamp": "2025-03-18T16:29:00Z"
+    },
+    {
+      "tag": "CH_LSPEC",
+      "url": "https://vasp.at/wiki/CH_LSPEC",
+      "revision_id": 28405,
+      "revision_timestamp": "2025-02-20T15:51:35Z"
+    },
+    {
+      "tag": "CH_NEDOS",
+      "url": "https://vasp.at/wiki/CH_NEDOS",
+      "revision_id": 28410,
+      "revision_timestamp": "2025-02-20T15:55:06Z"
+    },
+    {
+      "tag": "CH_SIGMA",
+      "url": "https://vasp.at/wiki/CH_SIGMA",
+      "revision_id": 28409,
+      "revision_timestamp": "2025-02-20T15:54:31Z"
+    },
+    {
+      "tag": "CLL",
+      "url": "https://vasp.at/wiki/CLL",
+      "revision_id": 28648,
+      "revision_timestamp": "2025-02-24T14:30:24Z"
+    },
+    {
+      "tag": "CLN",
+      "url": "https://vasp.at/wiki/CLN",
+      "revision_id": 36617,
+      "revision_timestamp": "2026-06-11T08:33:54Z"
+    },
+    {
+      "tag": "CLNT",
+      "url": "https://vasp.at/wiki/CLNT",
+      "revision_id": 28291,
+      "revision_timestamp": "2025-02-19T13:41:06Z"
+    },
+    {
+      "tag": "CLZ",
+      "url": "https://vasp.at/wiki/CLZ",
+      "revision_id": 28435,
+      "revision_timestamp": "2025-02-21T08:47:12Z"
+    },
+    {
+      "tag": "CMBJ",
+      "url": "https://vasp.at/wiki/CMBJ",
+      "revision_id": 29388,
+      "revision_timestamp": "2025-02-27T15:15:24Z"
+    },
+    {
+      "tag": "CMBJA",
+      "url": "https://vasp.at/wiki/CMBJA",
+      "revision_id": 29389,
+      "revision_timestamp": "2025-02-27T15:15:33Z"
+    },
+    {
+      "tag": "CMBJB",
+      "url": "https://vasp.at/wiki/CMBJB",
+      "revision_id": 29390,
+      "revision_timestamp": "2025-02-27T15:15:41Z"
+    },
+    {
+      "tag": "CMBJE",
+      "url": "https://vasp.at/wiki/CMBJE",
+      "revision_id": 29398,
+      "revision_timestamp": "2025-02-27T15:19:00Z"
+    },
+    {
+      "tag": "CPARAM",
+      "url": "https://vasp.at/wiki/CPARAM",
+      "revision_id": 24546,
+      "revision_timestamp": "2024-05-08T07:20:20Z"
+    },
+    {
+      "tag": "CSHIFT",
+      "url": "https://vasp.at/wiki/CSHIFT",
+      "revision_id": 26978,
+      "revision_timestamp": "2024-10-17T11:34:56Z"
+    },
+    {
+      "tag": "CUTOFF_MU",
+      "url": "https://vasp.at/wiki/CUTOFF_MU",
+      "revision_id": 32845,
+      "revision_timestamp": "2025-10-24T08:01:10Z"
+    },
+    {
+      "tag": "CUTOFF_SIGMA",
+      "url": "https://vasp.at/wiki/CUTOFF_SIGMA",
+      "revision_id": 32844,
+      "revision_timestamp": "2025-10-24T08:01:04Z"
+    },
+    {
+      "tag": "CUTOFF_TYPE",
+      "url": "https://vasp.at/wiki/CUTOFF_TYPE",
+      "revision_id": 32843,
+      "revision_timestamp": "2025-10-24T08:01:00Z"
+    },
+    {
+      "tag": "DEG_THRESHOLD",
+      "url": "https://vasp.at/wiki/DEG_THRESHOLD",
+      "revision_id": 36280,
+      "revision_timestamp": "2026-06-01T11:39:46Z"
+    },
+    {
+      "tag": "DEPER",
+      "url": "https://vasp.at/wiki/DEPER",
+      "revision_id": 26938,
+      "revision_timestamp": "2024-10-17T09:27:02Z"
+    },
+    {
+      "tag": "DFTD4_MODEL",
+      "url": "https://vasp.at/wiki/DFTD4_MODEL",
+      "revision_id": 34381,
+      "revision_timestamp": "2026-03-02T11:21:52Z"
+    },
+    {
+      "tag": "DFTD4_XC",
+      "url": "https://vasp.at/wiki/DFTD4_XC",
+      "revision_id": 34410,
+      "revision_timestamp": "2026-03-04T13:40:45Z"
+    },
+    {
+      "tag": "DIMER_DIST",
+      "url": "https://vasp.at/wiki/DIMER_DIST",
+      "revision_id": 22488,
+      "revision_timestamp": "2023-10-20T10:23:44Z"
+    },
+    {
+      "tag": "DIPOL",
+      "url": "https://vasp.at/wiki/DIPOL",
+      "revision_id": 32772,
+      "revision_timestamp": "2025-10-23T12:28:09Z"
+    },
+    {
+      "tag": "DQ",
+      "url": "https://vasp.at/wiki/DQ",
+      "revision_id": 29599,
+      "revision_timestamp": "2025-03-03T15:51:02Z"
+    },
+    {
+      "tag": "EBREAK",
+      "url": "https://vasp.at/wiki/EBREAK",
+      "revision_id": 16726,
+      "revision_timestamp": "2022-04-08T14:11:01Z"
+    },
+    {
+      "tag": "EDIFF",
+      "url": "https://vasp.at/wiki/EDIFF",
+      "revision_id": 32792,
+      "revision_timestamp": "2025-10-24T07:28:34Z"
+    },
+    {
+      "tag": "EDIFFG",
+      "url": "https://vasp.at/wiki/EDIFFG",
+      "revision_id": 32794,
+      "revision_timestamp": "2025-10-24T07:37:18Z"
+    },
+    {
+      "tag": "EFERMI",
+      "url": "https://vasp.at/wiki/EFERMI",
+      "revision_id": 32630,
+      "revision_timestamp": "2025-10-21T10:38:38Z"
+    },
+    {
+      "tag": "EFERMI_NEDOS",
+      "url": "https://vasp.at/wiki/EFERMI_NEDOS",
+      "revision_id": 35851,
+      "revision_timestamp": "2026-04-15T12:23:21Z"
+    },
+    {
+      "tag": "EFIELD",
+      "url": "https://vasp.at/wiki/EFIELD",
+      "revision_id": 37485,
+      "revision_timestamp": "2026-07-01T11:52:11Z"
+    },
+    {
+      "tag": "EFIELD_PEAD",
+      "url": "https://vasp.at/wiki/EFIELD_PEAD",
+      "revision_id": 33129,
+      "revision_timestamp": "2025-12-01T09:46:34Z"
+    },
+    {
+      "tag": "EFOR",
+      "url": "https://vasp.at/wiki/EFOR",
+      "revision_id": 27938,
+      "revision_timestamp": "2025-01-17T14:25:17Z"
+    },
+    {
+      "tag": "EINT",
+      "url": "https://vasp.at/wiki/EINT",
+      "revision_id": 27582,
+      "revision_timestamp": "2024-12-18T11:29:15Z"
+    },
+    {
+      "tag": "ELPH_DECOMPOSE",
+      "url": "https://vasp.at/wiki/ELPH_DECOMPOSE",
+      "revision_id": 33076,
+      "revision_timestamp": "2025-11-13T09:28:01Z"
+    },
+    {
+      "tag": "ELPH_DRIVER",
+      "url": "https://vasp.at/wiki/ELPH_DRIVER",
+      "revision_id": 37379,
+      "revision_timestamp": "2026-06-26T11:03:25Z"
+    },
+    {
+      "tag": "ELPH_FERMI_NEDOS",
+      "url": "https://vasp.at/wiki/ELPH_FERMI_NEDOS",
+      "revision_id": 33096,
+      "revision_timestamp": "2025-11-19T10:07:12Z"
+    },
+    {
+      "tag": "ELPH_IGNORE_IMAG_PHONONS",
+      "url": "https://vasp.at/wiki/ELPH_IGNORE_IMAG_PHONONS",
+      "revision_id": 32872,
+      "revision_timestamp": "2025-10-24T08:07:21Z"
+    },
+    {
+      "tag": "ELPH_ISMEAR",
+      "url": "https://vasp.at/wiki/ELPH_ISMEAR",
+      "revision_id": 32980,
+      "revision_timestamp": "2025-10-24T13:07:22Z"
+    },
+    {
+      "tag": "ELPH_KSPACING",
+      "url": "https://vasp.at/wiki/ELPH_KSPACING",
+      "revision_id": 27920,
+      "revision_timestamp": "2025-01-17T14:22:17Z"
+    },
+    {
+      "tag": "ELPH_LR",
+      "url": "https://vasp.at/wiki/ELPH_LR",
+      "revision_id": 32879,
+      "revision_timestamp": "2025-10-24T08:08:24Z"
+    },
+    {
+      "tag": "ELPH_MODE",
+      "url": "https://vasp.at/wiki/ELPH_MODE",
+      "revision_id": 32938,
+      "revision_timestamp": "2025-10-24T08:38:04Z"
+    },
+    {
+      "tag": "ELPH_NBANDS",
+      "url": "https://vasp.at/wiki/ELPH_NBANDS",
+      "revision_id": 31108,
+      "revision_timestamp": "2025-09-03T14:32:33Z"
+    },
+    {
+      "tag": "ELPH_NBANDS_SUM",
+      "url": "https://vasp.at/wiki/ELPH_NBANDS_SUM",
+      "revision_id": 32868,
+      "revision_timestamp": "2025-10-24T08:06:48Z"
+    },
+    {
+      "tag": "ELPH_POT_FFT_MESH",
+      "url": "https://vasp.at/wiki/ELPH_POT_FFT_MESH",
+      "revision_id": 29446,
+      "revision_timestamp": "2025-02-27T16:20:59Z"
+    },
+    {
+      "tag": "ELPH_POT_GENERATE",
+      "url": "https://vasp.at/wiki/ELPH_POT_GENERATE",
+      "revision_id": 32886,
+      "revision_timestamp": "2025-10-24T08:09:16Z"
+    },
+    {
+      "tag": "ELPH_POT_LATTICE",
+      "url": "https://vasp.at/wiki/ELPH_POT_LATTICE",
+      "revision_id": 32887,
+      "revision_timestamp": "2025-10-24T08:09:30Z"
+    },
+    {
+      "tag": "ELPH_PREPARE",
+      "url": "https://vasp.at/wiki/ELPH_PREPARE",
+      "revision_id": 32888,
+      "revision_timestamp": "2025-10-24T08:09:34Z"
+    },
+    {
+      "tag": "ELPH_RUN",
+      "url": "https://vasp.at/wiki/ELPH_RUN",
+      "revision_id": 32867,
+      "revision_timestamp": "2025-10-24T08:06:09Z"
+    },
+    {
+      "tag": "ELPH_SCATTERING_APPROX",
+      "url": "https://vasp.at/wiki/ELPH_SCATTERING_APPROX",
+      "revision_id": 32864,
+      "revision_timestamp": "2025-10-24T08:05:34Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_BAND_START",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_BAND_START",
+      "revision_id": 27930,
+      "revision_timestamp": "2025-01-17T14:24:13Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_BAND_START_KP",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_BAND_START_KP",
+      "revision_id": 37523,
+      "revision_timestamp": "2026-07-10T14:01:37Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_BAND_STOP",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_BAND_STOP",
+      "revision_id": 27931,
+      "revision_timestamp": "2025-01-17T14:24:21Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_BAND_STOP_KP",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_BAND_STOP_KP",
+      "revision_id": 37524,
+      "revision_timestamp": "2026-07-10T14:02:00Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_BROAD_TOL",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_BROAD_TOL",
+      "revision_id": 32935,
+      "revision_timestamp": "2025-10-24T08:33:28Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_CARRIER_DEN",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_CARRIER_DEN",
+      "revision_id": 32873,
+      "revision_timestamp": "2025-10-24T08:07:27Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_CARRIER_DEN_RANGE",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_CARRIER_DEN_RANGE",
+      "revision_id": 34575,
+      "revision_timestamp": "2026-03-10T09:04:36Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_CARRIER_PER_CELL",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_CARRIER_PER_CELL",
+      "revision_id": 32875,
+      "revision_timestamp": "2025-10-24T08:07:57Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_DELTA",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_DELTA",
+      "revision_id": 37526,
+      "revision_timestamp": "2026-07-10T14:45:16Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_DW",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_DW",
+      "revision_id": 27935,
+      "revision_timestamp": "2025-01-17T14:24:48Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_ENERGY_WINDOW",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_ENERGY_WINDOW",
+      "revision_id": 32913,
+      "revision_timestamp": "2025-10-24T08:12:50Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_FAN",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_FAN",
+      "revision_id": 27936,
+      "revision_timestamp": "2025-01-17T14:24:54Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_GAPS",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_GAPS",
+      "revision_id": 33009,
+      "revision_timestamp": "2025-10-29T15:39:33Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_G_SKIP",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_G_SKIP",
+      "revision_id": 32738,
+      "revision_timestamp": "2025-10-22T14:30:57Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_IKPT",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_IKPT",
+      "revision_id": 27939,
+      "revision_timestamp": "2025-01-17T14:26:00Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_IMAG_SKIP",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_IMAG_SKIP",
+      "revision_id": 32992,
+      "revision_timestamp": "2025-10-24T15:18:37Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_KPTS",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_KPTS",
+      "revision_id": 27940,
+      "revision_timestamp": "2025-01-17T14:26:07Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_MU",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_MU",
+      "revision_id": 32878,
+      "revision_timestamp": "2025-10-24T08:08:21Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_MU_RANGE",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_MU_RANGE",
+      "revision_id": 32909,
+      "revision_timestamp": "2025-10-24T08:12:31Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_NW",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_NW",
+      "revision_id": 32869,
+      "revision_timestamp": "2025-10-24T08:06:58Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_STATIC",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_STATIC",
+      "revision_id": 27951,
+      "revision_timestamp": "2025-01-17T14:27:06Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_TEMPS",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_TEMPS",
+      "revision_id": 32626,
+      "revision_timestamp": "2025-10-21T10:37:55Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_TEMPS_RANGE",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_TEMPS_RANGE",
+      "revision_id": 32911,
+      "revision_timestamp": "2025-10-24T08:12:42Z"
+    },
+    {
+      "tag": "ELPH_SELFEN_WRANGE",
+      "url": "https://vasp.at/wiki/ELPH_SELFEN_WRANGE",
+      "revision_id": 27949,
+      "revision_timestamp": "2025-01-17T14:27:02Z"
+    },
+    {
+      "tag": "ELPH_TRANSPORT",
+      "url": "https://vasp.at/wiki/ELPH_TRANSPORT",
+      "revision_id": 32891,
+      "revision_timestamp": "2025-10-24T08:09:54Z"
+    },
+    {
+      "tag": "ELPH_TRANSPORT_DFERMI_TOL",
+      "url": "https://vasp.at/wiki/ELPH_TRANSPORT_DFERMI_TOL",
+      "revision_id": 32753,
+      "revision_timestamp": "2025-10-22T20:17:48Z"
+    },
+    {
+      "tag": "ELPH_TRANSPORT_DRIVER",
+      "url": "https://vasp.at/wiki/ELPH_TRANSPORT_DRIVER",
+      "revision_id": 32881,
+      "revision_timestamp": "2025-10-24T08:08:47Z"
+    },
+    {
+      "tag": "ELPH_TRANSPORT_EMAX",
+      "url": "https://vasp.at/wiki/ELPH_TRANSPORT_EMAX",
+      "revision_id": 27945,
+      "revision_timestamp": "2025-01-17T14:26:54Z"
+    },
+    {
+      "tag": "ELPH_TRANSPORT_EMAX_PLOT",
+      "url": "https://vasp.at/wiki/ELPH_TRANSPORT_EMAX_PLOT",
+      "revision_id": 32962,
+      "revision_timestamp": "2025-10-24T09:49:24Z"
+    },
+    {
+      "tag": "ELPH_TRANSPORT_EMIN",
+      "url": "https://vasp.at/wiki/ELPH_TRANSPORT_EMIN",
+      "revision_id": 27944,
+      "revision_timestamp": "2025-01-17T14:26:51Z"
+    },
+    {
+      "tag": "ELPH_TRANSPORT_EMIN_PLOT",
+      "url": "https://vasp.at/wiki/ELPH_TRANSPORT_EMIN_PLOT",
+      "revision_id": 32961,
+      "revision_timestamp": "2025-10-24T09:49:13Z"
+    },
+    {
+      "tag": "ELPH_TRANSPORT_NEDOS_PLOT",
+      "url": "https://vasp.at/wiki/ELPH_TRANSPORT_NEDOS_PLOT",
+      "revision_id": 32965,
+      "revision_timestamp": "2025-10-24T09:53:55Z"
+    },
+    {
+      "tag": "ELPH_USEBLAS",
+      "url": "https://vasp.at/wiki/ELPH_USEBLAS",
+      "revision_id": 32880,
+      "revision_timestamp": "2025-10-24T08:08:40Z"
+    },
+    {
+      "tag": "ELPH_USERECIP",
+      "url": "https://vasp.at/wiki/ELPH_USERECIP",
+      "revision_id": 37252,
+      "revision_timestamp": "2026-06-19T08:26:01Z"
+    },
+    {
+      "tag": "ELPH_WF_CACHE_MB",
+      "url": "https://vasp.at/wiki/ELPH_WF_CACHE_MB",
+      "revision_id": 37241,
+      "revision_timestamp": "2026-06-18T13:57:06Z"
+    },
+    {
+      "tag": "ELPH_WF_CACHE_PREFILL",
+      "url": "https://vasp.at/wiki/ELPH_WF_CACHE_PREFILL",
+      "revision_id": 37222,
+      "revision_timestamp": "2026-06-18T13:35:09Z"
+    },
+    {
+      "tag": "ELPH_WF_COMM_OPT",
+      "url": "https://vasp.at/wiki/ELPH_WF_COMM_OPT",
+      "revision_id": 32914,
+      "revision_timestamp": "2025-10-24T08:13:02Z"
+    },
+    {
+      "tag": "ELPH_WF_REDISTRIBUTE",
+      "url": "https://vasp.at/wiki/ELPH_WF_REDISTRIBUTE",
+      "revision_id": 32991,
+      "revision_timestamp": "2025-10-24T15:15:34Z"
+    },
+    {
+      "tag": "ELPH_WRITE_HDF5VEL",
+      "url": "https://vasp.at/wiki/ELPH_WRITE_HDF5VEL",
+      "revision_id": 31230,
+      "revision_timestamp": "2025-09-17T12:05:39Z"
+    },
+    {
+      "tag": "ELPH_WRITE_TEXTVEL",
+      "url": "https://vasp.at/wiki/ELPH_WRITE_TEXTVEL",
+      "revision_id": 31231,
+      "revision_timestamp": "2025-09-17T12:05:49Z"
+    },
+    {
+      "tag": "EMAX",
+      "url": "https://vasp.at/wiki/EMAX",
+      "revision_id": 26949,
+      "revision_timestamp": "2024-10-17T09:44:59Z"
+    },
+    {
+      "tag": "EMIN",
+      "url": "https://vasp.at/wiki/EMIN",
+      "revision_id": 26951,
+      "revision_timestamp": "2024-10-17T09:45:45Z"
+    },
+    {
+      "tag": "ENAUG",
+      "url": "https://vasp.at/wiki/ENAUG",
+      "revision_id": 26953,
+      "revision_timestamp": "2024-10-17T09:48:47Z"
+    },
+    {
+      "tag": "ENCUT",
+      "url": "https://vasp.at/wiki/ENCUT",
+      "revision_id": 26956,
+      "revision_timestamp": "2024-10-17T09:50:24Z"
+    },
+    {
+      "tag": "ENCUTFOCK",
+      "url": "https://vasp.at/wiki/ENCUTFOCK",
+      "revision_id": 21508,
+      "revision_timestamp": "2023-10-18T09:14:01Z"
+    },
+    {
+      "tag": "ENCUTGW",
+      "url": "https://vasp.at/wiki/ENCUTGW",
+      "revision_id": 20307,
+      "revision_timestamp": "2023-04-24T14:07:20Z"
+    },
+    {
+      "tag": "ENCUTGWSOFT",
+      "url": "https://vasp.at/wiki/ENCUTGWSOFT",
+      "revision_id": 26011,
+      "revision_timestamp": "2024-08-29T05:42:27Z"
+    },
+    {
+      "tag": "ENCUTLR",
+      "url": "https://vasp.at/wiki/ENCUTLR",
+      "revision_id": 27959,
+      "revision_timestamp": "2025-01-17T14:29:26Z"
+    },
+    {
+      "tag": "ENINI",
+      "url": "https://vasp.at/wiki/ENINI",
+      "revision_id": 26957,
+      "revision_timestamp": "2024-10-17T09:51:34Z"
+    },
+    {
+      "tag": "EPSILON",
+      "url": "https://vasp.at/wiki/EPSILON",
+      "revision_id": 22413,
+      "revision_timestamp": "2023-10-20T09:12:38Z"
+    },
+    {
+      "tag": "ESTOP",
+      "url": "https://vasp.at/wiki/ESTOP",
+      "revision_id": 35882,
+      "revision_timestamp": "2026-04-15T12:39:04Z"
+    },
+    {
+      "tag": "EVENONLY",
+      "url": "https://vasp.at/wiki/EVENONLY",
+      "revision_id": 21679,
+      "revision_timestamp": "2023-10-18T12:04:35Z"
+    },
+    {
+      "tag": "EVENONLYGW",
+      "url": "https://vasp.at/wiki/EVENONLYGW",
+      "revision_id": 18000,
+      "revision_timestamp": "2022-07-19T10:02:32Z"
+    },
+    {
+      "tag": "EWALD_CUTOFF",
+      "url": "https://vasp.at/wiki/EWALD_CUTOFF",
+      "revision_id": 35860,
+      "revision_timestamp": "2026-04-15T12:28:07Z"
+    },
+    {
+      "tag": "FBIAS_A",
+      "url": "https://vasp.at/wiki/FBIAS_A",
+      "revision_id": 29881,
+      "revision_timestamp": "2025-03-07T13:39:35Z"
+    },
+    {
+      "tag": "FBIAS_D",
+      "url": "https://vasp.at/wiki/FBIAS_D",
+      "revision_id": 29882,
+      "revision_timestamp": "2025-03-07T13:39:51Z"
+    },
+    {
+      "tag": "FBIAS_R0",
+      "url": "https://vasp.at/wiki/FBIAS_R0",
+      "revision_id": 29883,
+      "revision_timestamp": "2025-03-07T13:40:03Z"
+    },
+    {
+      "tag": "FERDO",
+      "url": "https://vasp.at/wiki/FERDO",
+      "revision_id": 28538,
+      "revision_timestamp": "2025-02-24T09:59:34Z"
+    },
+    {
+      "tag": "FERWE",
+      "url": "https://vasp.at/wiki/FERWE",
+      "revision_id": 32801,
+      "revision_timestamp": "2025-10-24T07:46:03Z"
+    },
+    {
+      "tag": "FINDIFF",
+      "url": "https://vasp.at/wiki/FINDIFF",
+      "revision_id": 22767,
+      "revision_timestamp": "2023-11-12T05:35:48Z"
+    },
+    {
+      "tag": "FMP_ACTIVE",
+      "url": "https://vasp.at/wiki/FMP_ACTIVE",
+      "revision_id": 27496,
+      "revision_timestamp": "2024-12-18T10:12:48Z"
+    },
+    {
+      "tag": "FMP_DIRECTION",
+      "url": "https://vasp.at/wiki/FMP_DIRECTION",
+      "revision_id": 27503,
+      "revision_timestamp": "2024-12-18T10:18:46Z"
+    },
+    {
+      "tag": "FMP_PERIOD",
+      "url": "https://vasp.at/wiki/FMP_PERIOD",
+      "revision_id": 27502,
+      "revision_timestamp": "2024-12-18T10:17:59Z"
+    },
+    {
+      "tag": "FMP_SNUMBER",
+      "url": "https://vasp.at/wiki/FMP_SNUMBER",
+      "revision_id": 27498,
+      "revision_timestamp": "2024-12-18T10:14:50Z"
+    },
+    {
+      "tag": "FMP_SWAPNUM",
+      "url": "https://vasp.at/wiki/FMP_SWAPNUM",
+      "revision_id": 27497,
+      "revision_timestamp": "2024-12-18T10:13:59Z"
+    },
+    {
+      "tag": "FOCKCORR",
+      "url": "https://vasp.at/wiki/FOCKCORR",
+      "revision_id": 22327,
+      "revision_timestamp": "2023-10-20T08:26:11Z"
+    },
+    {
+      "tag": "GAMMA_VDW",
+      "url": "https://vasp.at/wiki/GAMMA_VDW",
+      "revision_id": 24423,
+      "revision_timestamp": "2024-03-19T12:22:42Z"
+    },
+    {
+      "tag": "GGA",
+      "url": "https://vasp.at/wiki/GGA",
+      "revision_id": 34546,
+      "revision_timestamp": "2026-03-08T21:40:02Z"
+    },
+    {
+      "tag": "GGA_COMPAT",
+      "url": "https://vasp.at/wiki/GGA_COMPAT",
+      "revision_id": 31519,
+      "revision_timestamp": "2025-10-14T14:17:15Z"
+    },
+    {
+      "tag": "HFALPHA",
+      "url": "https://vasp.at/wiki/HFALPHA",
+      "revision_id": 21505,
+      "revision_timestamp": "2023-10-18T09:13:39Z"
+    },
+    {
+      "tag": "HFLMAX",
+      "url": "https://vasp.at/wiki/HFLMAX",
+      "revision_id": 16750,
+      "revision_timestamp": "2022-04-08T14:18:29Z"
+    },
+    {
+      "tag": "HFRCUT",
+      "url": "https://vasp.at/wiki/HFRCUT",
+      "revision_id": 21504,
+      "revision_timestamp": "2023-10-18T09:12:41Z"
+    },
+    {
+      "tag": "HFSCREEN",
+      "url": "https://vasp.at/wiki/HFSCREEN",
+      "revision_id": 31117,
+      "revision_timestamp": "2025-09-05T14:31:42Z"
+    },
+    {
+      "tag": "HILLS_BIN",
+      "url": "https://vasp.at/wiki/HILLS_BIN",
+      "revision_id": 36172,
+      "revision_timestamp": "2026-05-28T13:31:58Z"
+    },
+    {
+      "tag": "HILLS_H",
+      "url": "https://vasp.at/wiki/HILLS_H",
+      "revision_id": 26679,
+      "revision_timestamp": "2024-10-16T11:56:34Z"
+    },
+    {
+      "tag": "HILLS_W",
+      "url": "https://vasp.at/wiki/HILLS_W",
+      "revision_id": 26681,
+      "revision_timestamp": "2024-10-16T11:56:59Z"
+    },
+    {
+      "tag": "HITOLER",
+      "url": "https://vasp.at/wiki/HITOLER",
+      "revision_id": 21825,
+      "revision_timestamp": "2023-10-18T14:51:29Z"
+    },
+    {
+      "tag": "IALGO",
+      "url": "https://vasp.at/wiki/IALGO",
+      "revision_id": 29456,
+      "revision_timestamp": "2025-02-27T20:43:08Z"
+    },
+    {
+      "tag": "IALL_IN_ONE",
+      "url": "https://vasp.at/wiki/IALL_IN_ONE",
+      "revision_id": 24267,
+      "revision_timestamp": "2024-02-21T08:09:26Z"
+    },
+    {
+      "tag": "IBAND",
+      "url": "https://vasp.at/wiki/IBAND",
+      "revision_id": 27580,
+      "revision_timestamp": "2024-12-18T11:28:33Z"
+    },
+    {
+      "tag": "IBRION",
+      "url": "https://vasp.at/wiki/IBRION",
+      "revision_id": 37190,
+      "revision_timestamp": "2026-06-18T08:31:31Z"
+    },
+    {
+      "tag": "IBSE",
+      "url": "https://vasp.at/wiki/IBSE",
+      "revision_id": 37229,
+      "revision_timestamp": "2026-06-18T13:44:24Z"
+    },
+    {
+      "tag": "ICHARG",
+      "url": "https://vasp.at/wiki/ICHARG",
+      "revision_id": 37119,
+      "revision_timestamp": "2026-06-16T12:47:22Z"
+    },
+    {
+      "tag": "ICHIBARE",
+      "url": "https://vasp.at/wiki/ICHIBARE",
+      "revision_id": 29603,
+      "revision_timestamp": "2025-03-03T15:51:31Z"
+    },
+    {
+      "tag": "ICORELEVEL",
+      "url": "https://vasp.at/wiki/ICORELEVEL",
+      "revision_id": 31344,
+      "revision_timestamp": "2025-09-26T08:01:30Z"
+    },
+    {
+      "tag": "IDIPOL",
+      "url": "https://vasp.at/wiki/IDIPOL",
+      "revision_id": 37673,
+      "revision_timestamp": "2026-08-11T07:11:48Z"
+    },
+    {
+      "tag": "IEPSILON",
+      "url": "https://vasp.at/wiki/IEPSILON",
+      "revision_id": 15949,
+      "revision_timestamp": "2022-04-07T12:02:07Z"
+    },
+    {
+      "tag": "IFC_ASR",
+      "url": "https://vasp.at/wiki/IFC_ASR",
+      "revision_id": 32876,
+      "revision_timestamp": "2025-10-24T08:08:12Z"
+    },
+    {
+      "tag": "IFC_LR",
+      "url": "https://vasp.at/wiki/IFC_LR",
+      "revision_id": 32877,
+      "revision_timestamp": "2025-10-24T08:08:17Z"
+    },
+    {
+      "tag": "IGPAR",
+      "url": "https://vasp.at/wiki/IGPAR",
+      "revision_id": 31520,
+      "revision_timestamp": "2025-10-14T14:17:42Z"
+    },
+    {
+      "tag": "IMAGES",
+      "url": "https://vasp.at/wiki/IMAGES",
+      "revision_id": 37269,
+      "revision_timestamp": "2026-06-19T10:19:27Z"
+    },
+    {
+      "tag": "IMAGE_1",
+      "url": "https://vasp.at/wiki/IMAGE_1",
+      "revision_id": 37294,
+      "revision_timestamp": "2026-06-19T15:22:17Z"
+    },
+    {
+      "tag": "IMIX",
+      "url": "https://vasp.at/wiki/IMIX",
+      "revision_id": 27203,
+      "revision_timestamp": "2024-10-18T11:35:43Z"
+    },
+    {
+      "tag": "INCREM",
+      "url": "https://vasp.at/wiki/INCREM",
+      "revision_id": 26809,
+      "revision_timestamp": "2024-10-16T14:13:18Z"
+    },
+    {
+      "tag": "INIMIX",
+      "url": "https://vasp.at/wiki/INIMIX",
+      "revision_id": 27012,
+      "revision_timestamp": "2024-10-17T13:51:51Z"
+    },
+    {
+      "tag": "INIWAV",
+      "url": "https://vasp.at/wiki/INIWAV",
+      "revision_id": 32791,
+      "revision_timestamp": "2025-10-24T07:28:03Z"
+    },
+    {
+      "tag": "INMRPRINT",
+      "url": "https://vasp.at/wiki/INMRPRINT",
+      "revision_id": 34243,
+      "revision_timestamp": "2026-02-17T16:11:22Z"
+    },
+    {
+      "tag": "INTERACTIVE",
+      "url": "https://vasp.at/wiki/INTERACTIVE",
+      "revision_id": 36973,
+      "revision_timestamp": "2026-06-15T06:42:10Z"
+    },
+    {
+      "tag": "IPEAD",
+      "url": "https://vasp.at/wiki/IPEAD",
+      "revision_id": 19210,
+      "revision_timestamp": "2022-11-14T11:23:07Z"
+    },
+    {
+      "tag": "IRC_DELTA0",
+      "url": "https://vasp.at/wiki/IRC_DELTA0",
+      "revision_id": 22773,
+      "revision_timestamp": "2023-11-12T12:23:43Z"
+    },
+    {
+      "tag": "IRC_DIRECTION",
+      "url": "https://vasp.at/wiki/IRC_DIRECTION",
+      "revision_id": 22768,
+      "revision_timestamp": "2023-11-12T05:37:30Z"
+    },
+    {
+      "tag": "IRC_MAXSTEP",
+      "url": "https://vasp.at/wiki/IRC_MAXSTEP",
+      "revision_id": 22783,
+      "revision_timestamp": "2023-11-12T12:39:54Z"
+    },
+    {
+      "tag": "IRC_MINSTEP",
+      "url": "https://vasp.at/wiki/IRC_MINSTEP",
+      "revision_id": 22781,
+      "revision_timestamp": "2023-11-12T12:39:27Z"
+    },
+    {
+      "tag": "IRC_STOP",
+      "url": "https://vasp.at/wiki/IRC_STOP",
+      "revision_id": 22772,
+      "revision_timestamp": "2023-11-12T12:21:34Z"
+    },
+    {
+      "tag": "IRC_VNORM0",
+      "url": "https://vasp.at/wiki/IRC_VNORM0",
+      "revision_id": 22785,
+      "revision_timestamp": "2023-11-12T12:42:39Z"
+    },
+    {
+      "tag": "ISEARCH",
+      "url": "https://vasp.at/wiki/ISEARCH",
+      "revision_id": 34440,
+      "revision_timestamp": "2026-03-05T07:33:16Z"
+    },
+    {
+      "tag": "ISIF",
+      "url": "https://vasp.at/wiki/ISIF",
+      "revision_id": 34129,
+      "revision_timestamp": "2026-02-09T11:41:24Z"
+    },
+    {
+      "tag": "ISMEAR",
+      "url": "https://vasp.at/wiki/ISMEAR",
+      "revision_id": 37501,
+      "revision_timestamp": "2026-07-07T09:27:57Z"
+    },
+    {
+      "tag": "ISPIN",
+      "url": "https://vasp.at/wiki/ISPIN",
+      "revision_id": 36282,
+      "revision_timestamp": "2026-06-01T14:20:00Z"
+    },
+    {
+      "tag": "ISTART",
+      "url": "https://vasp.at/wiki/ISTART",
+      "revision_id": 37120,
+      "revision_timestamp": "2026-06-16T12:48:57Z"
+    },
+    {
+      "tag": "ISYM",
+      "url": "https://vasp.at/wiki/ISYM",
+      "revision_id": 26986,
+      "revision_timestamp": "2024-10-17T11:52:08Z"
+    },
+    {
+      "tag": "IVDW",
+      "url": "https://vasp.at/wiki/IVDW",
+      "revision_id": 34375,
+      "revision_timestamp": "2026-03-02T11:13:46Z"
+    },
+    {
+      "tag": "IVDW_NL",
+      "url": "https://vasp.at/wiki/IVDW_NL",
+      "revision_id": 19710,
+      "revision_timestamp": "2023-02-16T12:28:24Z"
+    },
+    {
+      "tag": "IWAVPR",
+      "url": "https://vasp.at/wiki/IWAVPR",
+      "revision_id": 28111,
+      "revision_timestamp": "2025-02-14T10:56:42Z"
+    },
+    {
+      "tag": "I_CONSTRAINED_M",
+      "url": "https://vasp.at/wiki/I_CONSTRAINED_M",
+      "revision_id": 34761,
+      "revision_timestamp": "2026-03-16T10:37:07Z"
+    },
+    {
+      "tag": "KBLOCK",
+      "url": "https://vasp.at/wiki/KBLOCK",
+      "revision_id": 24216,
+      "revision_timestamp": "2024-02-16T13:06:46Z"
+    },
+    {
+      "tag": "KERNEL_TRUNCATION/FACTOR",
+      "url": "https://vasp.at/wiki/KERNEL_TRUNCATION/FACTOR",
+      "revision_id": 35976,
+      "revision_timestamp": "2026-05-05T12:33:43Z"
+    },
+    {
+      "tag": "KERNEL_TRUNCATION/IDIMENSIONALITY",
+      "url": "https://vasp.at/wiki/KERNEL_TRUNCATION/IDIMENSIONALITY",
+      "revision_id": 34863,
+      "revision_timestamp": "2026-03-17T11:03:08Z"
+    },
+    {
+      "tag": "KERNEL_TRUNCATION/IPAD",
+      "url": "https://vasp.at/wiki/KERNEL_TRUNCATION/IPAD",
+      "revision_id": 34843,
+      "revision_timestamp": "2026-03-17T10:38:48Z"
+    },
+    {
+      "tag": "KERNEL_TRUNCATION/ISURFACE",
+      "url": "https://vasp.at/wiki/KERNEL_TRUNCATION/ISURFACE",
+      "revision_id": 34868,
+      "revision_timestamp": "2026-03-17T11:12:01Z"
+    },
+    {
+      "tag": "KERNEL_TRUNCATION/LCOARSEN",
+      "url": "https://vasp.at/wiki/KERNEL_TRUNCATION/LCOARSEN",
+      "revision_id": 34858,
+      "revision_timestamp": "2026-03-17T10:58:56Z"
+    },
+    {
+      "tag": "KERNEL_TRUNCATION/LTRUNCATE",
+      "url": "https://vasp.at/wiki/KERNEL_TRUNCATION/LTRUNCATE",
+      "revision_id": 35076,
+      "revision_timestamp": "2026-03-18T15:24:26Z"
+    },
+    {
+      "tag": "KGAMMA",
+      "url": "https://vasp.at/wiki/KGAMMA",
+      "revision_id": 35395,
+      "revision_timestamp": "2026-03-20T15:33:15Z"
+    },
+    {
+      "tag": "KPAR",
+      "url": "https://vasp.at/wiki/KPAR",
+      "revision_id": 36272,
+      "revision_timestamp": "2026-06-01T08:17:46Z"
+    },
+    {
+      "tag": "KPOINTS_OPT_MODE",
+      "url": "https://vasp.at/wiki/KPOINTS_OPT_MODE",
+      "revision_id": 32889,
+      "revision_timestamp": "2025-10-24T08:09:39Z"
+    },
+    {
+      "tag": "KPOINTS_OPT_NKBATCH",
+      "url": "https://vasp.at/wiki/KPOINTS_OPT_NKBATCH",
+      "revision_id": 22352,
+      "revision_timestamp": "2023-10-20T08:33:27Z"
+    },
+    {
+      "tag": "KPOINT_BSE",
+      "url": "https://vasp.at/wiki/KPOINT_BSE",
+      "revision_id": 36381,
+      "revision_timestamp": "2026-06-08T07:46:58Z"
+    },
+    {
+      "tag": "KPUSE",
+      "url": "https://vasp.at/wiki/KPUSE",
+      "revision_id": 27583,
+      "revision_timestamp": "2024-12-18T11:29:29Z"
+    },
+    {
+      "tag": "KSPACING",
+      "url": "https://vasp.at/wiki/KSPACING",
+      "revision_id": 35382,
+      "revision_timestamp": "2026-03-20T15:05:29Z"
+    },
+    {
+      "tag": "KSPACING_OPT",
+      "url": "https://vasp.at/wiki/KSPACING_OPT",
+      "revision_id": 35396,
+      "revision_timestamp": "2026-03-20T15:34:15Z"
+    },
+    {
+      "tag": "K_MULTIPLY",
+      "url": "https://vasp.at/wiki/K_MULTIPLY",
+      "revision_id": 35907,
+      "revision_timestamp": "2026-04-17T16:08:43Z"
+    },
+    {
+      "tag": "LADDER",
+      "url": "https://vasp.at/wiki/LADDER",
+      "revision_id": 33016,
+      "revision_timestamp": "2025-11-03T08:41:24Z"
+    },
+    {
+      "tag": "LAECHG",
+      "url": "https://vasp.at/wiki/LAECHG",
+      "revision_id": 27070,
+      "revision_timestamp": "2024-10-17T14:56:12Z"
+    },
+    {
+      "tag": "LALL_IN_ONE",
+      "url": "https://vasp.at/wiki/LALL_IN_ONE",
+      "revision_id": 24254,
+      "revision_timestamp": "2024-02-21T06:29:36Z"
+    },
+    {
+      "tag": "LAMBDA",
+      "url": "https://vasp.at/wiki/LAMBDA",
+      "revision_id": 16799,
+      "revision_timestamp": "2022-04-08T14:26:14Z"
+    },
+    {
+      "tag": "LANCZOSTHR",
+      "url": "https://vasp.at/wiki/LANCZOSTHR",
+      "revision_id": 31823,
+      "revision_timestamp": "2025-10-16T12:42:42Z"
+    },
+    {
+      "tag": "LANGEVIN_GAMMA",
+      "url": "https://vasp.at/wiki/LANGEVIN_GAMMA",
+      "revision_id": 36570,
+      "revision_timestamp": "2026-06-10T12:17:05Z"
+    },
+    {
+      "tag": "LANGEVIN_GAMMA_L",
+      "url": "https://vasp.at/wiki/LANGEVIN_GAMMA_L",
+      "revision_id": 36572,
+      "revision_timestamp": "2026-06-10T12:19:45Z"
+    },
+    {
+      "tag": "LASPH",
+      "url": "https://vasp.at/wiki/LASPH",
+      "revision_id": 35705,
+      "revision_timestamp": "2026-04-08T08:27:31Z"
+    },
+    {
+      "tag": "LASYNC",
+      "url": "https://vasp.at/wiki/LASYNC",
+      "revision_id": 17936,
+      "revision_timestamp": "2022-07-19T08:12:41Z"
+    },
+    {
+      "tag": "LATTICE_CONSTRAINTS",
+      "url": "https://vasp.at/wiki/LATTICE_CONSTRAINTS",
+      "revision_id": 28162,
+      "revision_timestamp": "2025-02-17T14:33:44Z"
+    },
+    {
+      "tag": "LBERRY",
+      "url": "https://vasp.at/wiki/LBERRY",
+      "revision_id": 31523,
+      "revision_timestamp": "2025-10-14T14:26:11Z"
+    },
+    {
+      "tag": "LBLUEOUT",
+      "url": "https://vasp.at/wiki/LBLUEOUT",
+      "revision_id": 36167,
+      "revision_timestamp": "2026-05-28T13:28:49Z"
+    },
+    {
+      "tag": "LBONE",
+      "url": "https://vasp.at/wiki/LBONE",
+      "revision_id": 29600,
+      "revision_timestamp": "2025-03-03T15:51:10Z"
+    },
+    {
+      "tag": "LCALCEPS",
+      "url": "https://vasp.at/wiki/LCALCEPS",
+      "revision_id": 33371,
+      "revision_timestamp": "2026-01-22T14:08:40Z"
+    },
+    {
+      "tag": "LCALCPOL",
+      "url": "https://vasp.at/wiki/LCALCPOL",
+      "revision_id": 31524,
+      "revision_timestamp": "2025-10-14T14:27:10Z"
+    },
+    {
+      "tag": "LCHARG",
+      "url": "https://vasp.at/wiki/LCHARG",
+      "revision_id": 37108,
+      "revision_timestamp": "2026-06-16T12:40:07Z"
+    },
+    {
+      "tag": "LCHARGH5",
+      "url": "https://vasp.at/wiki/LCHARGH5",
+      "revision_id": 37114,
+      "revision_timestamp": "2026-06-16T12:46:14Z"
+    },
+    {
+      "tag": "LCHIMAG",
+      "url": "https://vasp.at/wiki/LCHIMAG",
+      "revision_id": 35877,
+      "revision_timestamp": "2026-04-15T12:38:29Z"
+    },
+    {
+      "tag": "LCORR",
+      "url": "https://vasp.at/wiki/LCORR",
+      "revision_id": 21819,
+      "revision_timestamp": "2023-10-18T14:40:28Z"
+    },
+    {
+      "tag": "LDAU",
+      "url": "https://vasp.at/wiki/LDAU",
+      "revision_id": 36499,
+      "revision_timestamp": "2026-06-09T09:34:07Z"
+    },
+    {
+      "tag": "LDAUJ",
+      "url": "https://vasp.at/wiki/LDAUJ",
+      "revision_id": 36500,
+      "revision_timestamp": "2026-06-09T09:34:11Z"
+    },
+    {
+      "tag": "LDAUL",
+      "url": "https://vasp.at/wiki/LDAUL",
+      "revision_id": 36501,
+      "revision_timestamp": "2026-06-09T09:34:16Z"
+    },
+    {
+      "tag": "LDAUPRINT",
+      "url": "https://vasp.at/wiki/LDAUPRINT",
+      "revision_id": 36502,
+      "revision_timestamp": "2026-06-09T09:34:21Z"
+    },
+    {
+      "tag": "LDAUTYPE",
+      "url": "https://vasp.at/wiki/LDAUTYPE",
+      "revision_id": 36503,
+      "revision_timestamp": "2026-06-09T09:34:26Z"
+    },
+    {
+      "tag": "LDAUU",
+      "url": "https://vasp.at/wiki/LDAUU",
+      "revision_id": 36504,
+      "revision_timestamp": "2026-06-09T09:34:30Z"
+    },
+    {
+      "tag": "LDIAG",
+      "url": "https://vasp.at/wiki/LDIAG",
+      "revision_id": 27004,
+      "revision_timestamp": "2024-10-17T12:15:19Z"
+    },
+    {
+      "tag": "LDIPOL",
+      "url": "https://vasp.at/wiki/LDIPOL",
+      "revision_id": 37672,
+      "revision_timestamp": "2026-08-11T07:10:33Z"
+    },
+    {
+      "tag": "LDISENTANGLED",
+      "url": "https://vasp.at/wiki/LDISENTANGLED",
+      "revision_id": 35237,
+      "revision_timestamp": "2026-03-20T09:57:52Z"
+    },
+    {
+      "tag": "LDMATRIX",
+      "url": "https://vasp.at/wiki/LDMATRIX",
+      "revision_id": 37380,
+      "revision_timestamp": "2026-06-26T11:03:43Z"
+    },
+    {
+      "tag": "LDOWNSAMPLE",
+      "url": "https://vasp.at/wiki/LDOWNSAMPLE",
+      "revision_id": 35909,
+      "revision_timestamp": "2026-04-17T16:10:14Z"
+    },
+    {
+      "tag": "LEFG",
+      "url": "https://vasp.at/wiki/LEFG",
+      "revision_id": 30743,
+      "revision_timestamp": "2025-05-12T11:35:51Z"
+    },
+    {
+      "tag": "LELF",
+      "url": "https://vasp.at/wiki/LELF",
+      "revision_id": 27202,
+      "revision_timestamp": "2024-10-18T11:33:57Z"
+    },
+    {
+      "tag": "LEPSILON",
+      "url": "https://vasp.at/wiki/LEPSILON",
+      "revision_id": 34646,
+      "revision_timestamp": "2026-03-12T09:54:54Z"
+    },
+    {
+      "tag": "LFINITE_TEMPERATURE",
+      "url": "https://vasp.at/wiki/LFINITE_TEMPERATURE",
+      "revision_id": 24255,
+      "revision_timestamp": "2024-02-21T06:29:52Z"
+    },
+    {
+      "tag": "LFOCKACE",
+      "url": "https://vasp.at/wiki/LFOCKACE",
+      "revision_id": 24256,
+      "revision_timestamp": "2024-02-21T06:30:06Z"
+    },
+    {
+      "tag": "LFOCKAEDFT",
+      "url": "https://vasp.at/wiki/LFOCKAEDFT",
+      "revision_id": 18007,
+      "revision_timestamp": "2022-07-19T10:04:40Z"
+    },
+    {
+      "tag": "LFOCKSTD",
+      "url": "https://vasp.at/wiki/LFOCKSTD",
+      "revision_id": 37475,
+      "revision_timestamp": "2026-06-29T14:16:54Z"
+    },
+    {
+      "tag": "LFXC",
+      "url": "https://vasp.at/wiki/LFXC",
+      "revision_id": 37075,
+      "revision_timestamp": "2026-06-15T14:56:28Z"
+    },
+    {
+      "tag": "LH5",
+      "url": "https://vasp.at/wiki/LH5",
+      "revision_id": 37113,
+      "revision_timestamp": "2026-06-16T12:46:04Z"
+    },
+    {
+      "tag": "LHARTREE",
+      "url": "https://vasp.at/wiki/LHARTREE",
+      "revision_id": 33015,
+      "revision_timestamp": "2025-11-03T08:28:54Z"
+    },
+    {
+      "tag": "LHFCALC",
+      "url": "https://vasp.at/wiki/LHFCALC",
+      "revision_id": 34124,
+      "revision_timestamp": "2026-02-09T11:39:25Z"
+    },
+    {
+      "tag": "LHYPERFINE",
+      "url": "https://vasp.at/wiki/LHYPERFINE",
+      "revision_id": 37371,
+      "revision_timestamp": "2026-06-26T10:49:12Z"
+    },
+    {
+      "tag": "LIBMBD_ALPHA",
+      "url": "https://vasp.at/wiki/LIBMBD_ALPHA",
+      "revision_id": 35876,
+      "revision_timestamp": "2026-04-15T12:38:23Z"
+    },
+    {
+      "tag": "LIBMBD_C6AU",
+      "url": "https://vasp.at/wiki/LIBMBD_C6AU",
+      "revision_id": 24449,
+      "revision_timestamp": "2024-03-19T13:59:50Z"
+    },
+    {
+      "tag": "LIBMBD_K_GRID",
+      "url": "https://vasp.at/wiki/LIBMBD_K_GRID",
+      "revision_id": 24448,
+      "revision_timestamp": "2024-03-19T13:59:32Z"
+    },
+    {
+      "tag": "LIBMBD_K_GRID_SHIFT",
+      "url": "https://vasp.at/wiki/LIBMBD_K_GRID_SHIFT",
+      "revision_id": 24442,
+      "revision_timestamp": "2024-03-19T13:57:55Z"
+    },
+    {
+      "tag": "LIBMBD_MBD_A",
+      "url": "https://vasp.at/wiki/LIBMBD_MBD_A",
+      "revision_id": 24443,
+      "revision_timestamp": "2024-03-19T13:58:07Z"
+    },
+    {
+      "tag": "LIBMBD_MBD_BETA",
+      "url": "https://vasp.at/wiki/LIBMBD_MBD_BETA",
+      "revision_id": 24445,
+      "revision_timestamp": "2024-03-19T13:58:43Z"
+    },
+    {
+      "tag": "LIBMBD_METHOD",
+      "url": "https://vasp.at/wiki/LIBMBD_METHOD",
+      "revision_id": 37375,
+      "revision_timestamp": "2026-06-26T10:58:50Z"
+    },
+    {
+      "tag": "LIBMBD_N_OMEGA_GRID",
+      "url": "https://vasp.at/wiki/LIBMBD_N_OMEGA_GRID",
+      "revision_id": 24440,
+      "revision_timestamp": "2024-03-19T13:57:16Z"
+    },
+    {
+      "tag": "LIBMBD_PARALLEL_MODE",
+      "url": "https://vasp.at/wiki/LIBMBD_PARALLEL_MODE",
+      "revision_id": 24444,
+      "revision_timestamp": "2024-03-19T13:58:21Z"
+    },
+    {
+      "tag": "LIBMBD_R0AU",
+      "url": "https://vasp.at/wiki/LIBMBD_R0AU",
+      "revision_id": 24451,
+      "revision_timestamp": "2024-03-19T14:00:35Z"
+    },
+    {
+      "tag": "LIBMBD_TS_D",
+      "url": "https://vasp.at/wiki/LIBMBD_TS_D",
+      "revision_id": 24447,
+      "revision_timestamp": "2024-03-19T13:59:16Z"
+    },
+    {
+      "tag": "LIBMBD_TS_SR",
+      "url": "https://vasp.at/wiki/LIBMBD_TS_SR",
+      "revision_id": 24450,
+      "revision_timestamp": "2024-03-19T14:00:15Z"
+    },
+    {
+      "tag": "LIBMBD_VDW_PARAMS_KIND",
+      "url": "https://vasp.at/wiki/LIBMBD_VDW_PARAMS_KIND",
+      "revision_id": 24441,
+      "revision_timestamp": "2024-03-19T13:57:36Z"
+    },
+    {
+      "tag": "LIBMBD_XC",
+      "url": "https://vasp.at/wiki/LIBMBD_XC",
+      "revision_id": 33442,
+      "revision_timestamp": "2026-01-28T16:17:52Z"
+    },
+    {
+      "tag": "LIBXC1",
+      "url": "https://vasp.at/wiki/LIBXC1",
+      "revision_id": 34548,
+      "revision_timestamp": "2026-03-08T21:42:18Z"
+    },
+    {
+      "tag": "LIBXC1_PN",
+      "url": "https://vasp.at/wiki/LIBXC1_Pn",
+      "revision_id": 34552,
+      "revision_timestamp": "2026-03-08T21:46:32Z"
+    },
+    {
+      "tag": "LIBXC2",
+      "url": "https://vasp.at/wiki/LIBXC2",
+      "revision_id": 34550,
+      "revision_timestamp": "2026-03-08T21:45:38Z"
+    },
+    {
+      "tag": "LIBXC2_PN",
+      "url": "https://vasp.at/wiki/LIBXC2_Pn",
+      "revision_id": 34355,
+      "revision_timestamp": "2026-02-27T15:11:24Z"
+    },
+    {
+      "tag": "LKPOINTS_OPT",
+      "url": "https://vasp.at/wiki/LKPOINTS_OPT",
+      "revision_id": 35399,
+      "revision_timestamp": "2026-03-20T15:37:42Z"
+    },
+    {
+      "tag": "LKPOINTS_WAN",
+      "url": "https://vasp.at/wiki/LKPOINTS_WAN",
+      "revision_id": 35410,
+      "revision_timestamp": "2026-03-20T16:05:15Z"
+    },
+    {
+      "tag": "LKPROJ",
+      "url": "https://vasp.at/wiki/LKPROJ",
+      "revision_id": 27288,
+      "revision_timestamp": "2024-10-21T11:35:10Z"
+    },
+    {
+      "tag": "LLRAUG",
+      "url": "https://vasp.at/wiki/LLRAUG",
+      "revision_id": 29602,
+      "revision_timestamp": "2025-03-03T15:51:24Z"
+    },
+    {
+      "tag": "LMAXFOCK",
+      "url": "https://vasp.at/wiki/LMAXFOCK",
+      "revision_id": 17785,
+      "revision_timestamp": "2022-05-18T12:44:31Z"
+    },
+    {
+      "tag": "LMAXFOCKAE",
+      "url": "https://vasp.at/wiki/LMAXFOCKAE",
+      "revision_id": 37603,
+      "revision_timestamp": "2026-07-22T13:46:13Z"
+    },
+    {
+      "tag": "LMAXMIX",
+      "url": "https://vasp.at/wiki/LMAXMIX",
+      "revision_id": 27290,
+      "revision_timestamp": "2024-10-21T11:36:09Z"
+    },
+    {
+      "tag": "LMAXPAW",
+      "url": "https://vasp.at/wiki/LMAXPAW",
+      "revision_id": 32795,
+      "revision_timestamp": "2025-10-24T07:37:40Z"
+    },
+    {
+      "tag": "LMAXTAU",
+      "url": "https://vasp.at/wiki/LMAXTAU",
+      "revision_id": 29387,
+      "revision_timestamp": "2025-02-27T15:15:10Z"
+    },
+    {
+      "tag": "LMIXTAU",
+      "url": "https://vasp.at/wiki/LMIXTAU",
+      "revision_id": 29384,
+      "revision_timestamp": "2025-02-27T15:14:29Z"
+    },
+    {
+      "tag": "LMODELHF",
+      "url": "https://vasp.at/wiki/LMODELHF",
+      "revision_id": 34378,
+      "revision_timestamp": "2026-03-02T11:18:41Z"
+    },
+    {
+      "tag": "LMONO",
+      "url": "https://vasp.at/wiki/LMONO",
+      "revision_id": 37671,
+      "revision_timestamp": "2026-08-11T07:07:29Z"
+    },
+    {
+      "tag": "LMP2LT",
+      "url": "https://vasp.at/wiki/LMP2LT",
+      "revision_id": 24259,
+      "revision_timestamp": "2024-02-21T06:30:36Z"
+    },
+    {
+      "tag": "LNABLA",
+      "url": "https://vasp.at/wiki/LNABLA",
+      "revision_id": 18255,
+      "revision_timestamp": "2022-07-19T14:27:48Z"
+    },
+    {
+      "tag": "LNICSALL",
+      "url": "https://vasp.at/wiki/LNICSALL",
+      "revision_id": 34599,
+      "revision_timestamp": "2026-03-10T13:50:17Z"
+    },
+    {
+      "tag": "LNMRCAR",
+      "url": "https://vasp.at/wiki/LNMRCAR",
+      "revision_id": 34760,
+      "revision_timestamp": "2026-03-16T10:35:12Z"
+    },
+    {
+      "tag": "LNMRLEG",
+      "url": "https://vasp.at/wiki/LNMRLEG",
+      "revision_id": 34241,
+      "revision_timestamp": "2026-02-17T15:03:31Z"
+    },
+    {
+      "tag": "LNMRSHIELD",
+      "url": "https://vasp.at/wiki/LNMRSHIELD",
+      "revision_id": 34600,
+      "revision_timestamp": "2026-03-10T13:50:59Z"
+    },
+    {
+      "tag": "LNMR_SYM_RED",
+      "url": "https://vasp.at/wiki/LNMR_SYM_RED",
+      "revision_id": 32804,
+      "revision_timestamp": "2025-10-24T07:46:48Z"
+    },
+    {
+      "tag": "LNOAUGXC",
+      "url": "https://vasp.at/wiki/LNOAUGXC",
+      "revision_id": 29473,
+      "revision_timestamp": "2025-02-28T10:02:08Z"
+    },
+    {
+      "tag": "LNONCOLLINEAR",
+      "url": "https://vasp.at/wiki/LNONCOLLINEAR",
+      "revision_id": 36602,
+      "revision_timestamp": "2026-06-11T08:09:55Z"
+    },
+    {
+      "tag": "LOCPROJ",
+      "url": "https://vasp.at/wiki/LOCPROJ",
+      "revision_id": 26048,
+      "revision_timestamp": "2024-09-09T09:47:23Z"
+    },
+    {
+      "tag": "LOPTICS",
+      "url": "https://vasp.at/wiki/LOPTICS",
+      "revision_id": 31076,
+      "revision_timestamp": "2025-08-12T11:36:59Z"
+    },
+    {
+      "tag": "LORBIT",
+      "url": "https://vasp.at/wiki/LORBIT",
+      "revision_id": 37170,
+      "revision_timestamp": "2026-06-17T09:13:06Z"
+    },
+    {
+      "tag": "LORBMOM",
+      "url": "https://vasp.at/wiki/LORBMOM",
+      "revision_id": 36605,
+      "revision_timestamp": "2026-06-11T08:10:46Z"
+    },
+    {
+      "tag": "LPARD",
+      "url": "https://vasp.at/wiki/LPARD",
+      "revision_id": 27579,
+      "revision_timestamp": "2024-12-18T11:28:08Z"
+    },
+    {
+      "tag": "LPARDH5",
+      "url": "https://vasp.at/wiki/LPARDH5",
+      "revision_id": 31720,
+      "revision_timestamp": "2025-10-15T14:05:53Z"
+    },
+    {
+      "tag": "LPEAD",
+      "url": "https://vasp.at/wiki/LPEAD",
+      "revision_id": 27977,
+      "revision_timestamp": "2025-01-22T10:19:25Z"
+    },
+    {
+      "tag": "LPHON_DISPERSION",
+      "url": "https://vasp.at/wiki/LPHON_DISPERSION",
+      "revision_id": 18395,
+      "revision_timestamp": "2022-07-20T09:16:37Z"
+    },
+    {
+      "tag": "LPHON_POLAR",
+      "url": "https://vasp.at/wiki/LPHON_POLAR",
+      "revision_id": 27678,
+      "revision_timestamp": "2024-12-18T14:55:27Z"
+    },
+    {
+      "tag": "LPHON_READ_FORCE_CONSTANTS",
+      "url": "https://vasp.at/wiki/LPHON_READ_FORCE_CONSTANTS",
+      "revision_id": 18945,
+      "revision_timestamp": "2022-09-01T09:49:45Z"
+    },
+    {
+      "tag": "LPLANE",
+      "url": "https://vasp.at/wiki/LPLANE",
+      "revision_id": 16867,
+      "revision_timestamp": "2022-04-08T14:39:35Z"
+    },
+    {
+      "tag": "LPOSNICS",
+      "url": "https://vasp.at/wiki/LPOSNICS",
+      "revision_id": 34598,
+      "revision_timestamp": "2026-03-10T13:49:43Z"
+    },
+    {
+      "tag": "LREAL",
+      "url": "https://vasp.at/wiki/LREAL",
+      "revision_id": 27291,
+      "revision_timestamp": "2024-10-21T11:37:13Z"
+    },
+    {
+      "tag": "LRHFCALC",
+      "url": "https://vasp.at/wiki/LRHFCALC",
+      "revision_id": 34131,
+      "revision_timestamp": "2026-02-09T12:38:37Z"
+    },
+    {
+      "tag": "LRPA",
+      "url": "https://vasp.at/wiki/LRPA",
+      "revision_id": 25292,
+      "revision_timestamp": "2024-06-14T05:35:35Z"
+    },
+    {
+      "tag": "LRPAFORCE",
+      "url": "https://vasp.at/wiki/LRPAFORCE",
+      "revision_id": 34943,
+      "revision_timestamp": "2026-03-17T15:24:59Z"
+    },
+    {
+      "tag": "LSCAAWARE",
+      "url": "https://vasp.at/wiki/LSCAAWARE",
+      "revision_id": 16870,
+      "revision_timestamp": "2022-04-08T14:40:04Z"
+    },
+    {
+      "tag": "LSCALAPACK",
+      "url": "https://vasp.at/wiki/LSCALAPACK",
+      "revision_id": 16871,
+      "revision_timestamp": "2022-04-08T14:40:13Z"
+    },
+    {
+      "tag": "LSCALER0",
+      "url": "https://vasp.at/wiki/LSCALER0",
+      "revision_id": 28097,
+      "revision_timestamp": "2025-02-13T10:21:33Z"
+    },
+    {
+      "tag": "LSCALU",
+      "url": "https://vasp.at/wiki/LSCALU",
+      "revision_id": 16874,
+      "revision_timestamp": "2022-04-08T14:40:45Z"
+    },
+    {
+      "tag": "LSCDM",
+      "url": "https://vasp.at/wiki/LSCDM",
+      "revision_id": 23559,
+      "revision_timestamp": "2024-02-07T10:20:18Z"
+    },
+    {
+      "tag": "LSCK",
+      "url": "https://vasp.at/wiki/LSCK",
+      "revision_id": 35875,
+      "revision_timestamp": "2026-04-15T12:37:49Z"
+    },
+    {
+      "tag": "LSCRPA",
+      "url": "https://vasp.at/wiki/LSCRPA",
+      "revision_id": 35660,
+      "revision_timestamp": "2026-03-27T11:54:00Z"
+    },
+    {
+      "tag": "LSCSGRAD",
+      "url": "https://vasp.at/wiki/LSCSGRAD",
+      "revision_id": 17148,
+      "revision_timestamp": "2022-04-08T20:38:46Z"
+    },
+    {
+      "tag": "LSELFENERGY",
+      "url": "https://vasp.at/wiki/LSELFENERGY",
+      "revision_id": 32808,
+      "revision_timestamp": "2025-10-24T07:48:04Z"
+    },
+    {
+      "tag": "LSEPB",
+      "url": "https://vasp.at/wiki/LSEPB",
+      "revision_id": 32810,
+      "revision_timestamp": "2025-10-24T07:48:53Z"
+    },
+    {
+      "tag": "LSEPK",
+      "url": "https://vasp.at/wiki/LSEPK",
+      "revision_id": 32854,
+      "revision_timestamp": "2025-10-24T08:02:41Z"
+    },
+    {
+      "tag": "LSFBXC",
+      "url": "https://vasp.at/wiki/LSFBXC",
+      "revision_id": 31419,
+      "revision_timestamp": "2025-10-03T08:15:08Z"
+    },
+    {
+      "tag": "LSINGLES",
+      "url": "https://vasp.at/wiki/LSINGLES",
+      "revision_id": 24262,
+      "revision_timestamp": "2024-02-21T06:32:01Z"
+    },
+    {
+      "tag": "LSMP2LT",
+      "url": "https://vasp.at/wiki/LSMP2LT",
+      "revision_id": 24263,
+      "revision_timestamp": "2024-02-21T06:32:10Z"
+    },
+    {
+      "tag": "LSORBIT",
+      "url": "https://vasp.at/wiki/LSORBIT",
+      "revision_id": 27887,
+      "revision_timestamp": "2025-01-13T15:56:21Z"
+    },
+    {
+      "tag": "LSOSHIFT",
+      "url": "https://vasp.at/wiki/LSOSHIFT",
+      "revision_id": 34271,
+      "revision_timestamp": "2026-02-19T11:01:52Z"
+    },
+    {
+      "tag": "LSPECTRAL",
+      "url": "https://vasp.at/wiki/LSPECTRAL",
+      "revision_id": 18018,
+      "revision_timestamp": "2022-07-19T10:11:52Z"
+    },
+    {
+      "tag": "LSPECTRALGW",
+      "url": "https://vasp.at/wiki/LSPECTRALGW",
+      "revision_id": 18019,
+      "revision_timestamp": "2022-07-19T10:12:06Z"
+    },
+    {
+      "tag": "LSPIN_VDW",
+      "url": "https://vasp.at/wiki/LSPIN_VDW",
+      "revision_id": 24543,
+      "revision_timestamp": "2024-05-08T07:12:16Z"
+    },
+    {
+      "tag": "LSPIRAL",
+      "url": "https://vasp.at/wiki/LSPIRAL",
+      "revision_id": 16895,
+      "revision_timestamp": "2022-04-08T14:42:54Z"
+    },
+    {
+      "tag": "LSUBROT",
+      "url": "https://vasp.at/wiki/LSUBROT",
+      "revision_id": 16896,
+      "revision_timestamp": "2022-04-08T14:43:04Z"
+    },
+    {
+      "tag": "LSYNCH5",
+      "url": "https://vasp.at/wiki/LSYNCH5",
+      "revision_id": 27700,
+      "revision_timestamp": "2024-12-19T08:22:46Z"
+    },
+    {
+      "tag": "LTAU",
+      "url": "https://vasp.at/wiki/LTAU",
+      "revision_id": 37116,
+      "revision_timestamp": "2026-06-16T12:46:41Z"
+    },
+    {
+      "tag": "LTBOUNDLIBXC",
+      "url": "https://vasp.at/wiki/LTBOUNDLIBXC",
+      "revision_id": 29391,
+      "revision_timestamp": "2025-02-27T15:15:49Z"
+    },
+    {
+      "tag": "LTEMPER",
+      "url": "https://vasp.at/wiki/LTEMPER",
+      "revision_id": 33094,
+      "revision_timestamp": "2025-11-19T10:02:52Z"
+    },
+    {
+      "tag": "LTHOMAS",
+      "url": "https://vasp.at/wiki/LTHOMAS",
+      "revision_id": 34304,
+      "revision_timestamp": "2026-02-27T10:01:18Z"
+    },
+    {
+      "tag": "LTRIPLET",
+      "url": "https://vasp.at/wiki/LTRIPLET",
+      "revision_id": 22325,
+      "revision_timestamp": "2023-10-20T08:25:33Z"
+    },
+    {
+      "tag": "LTSSURF",
+      "url": "https://vasp.at/wiki/LTSSURF",
+      "revision_id": 23853,
+      "revision_timestamp": "2024-02-08T11:25:33Z"
+    },
+    {
+      "tag": "LTWO_CENTRE",
+      "url": "https://vasp.at/wiki/LTWO_CENTRE",
+      "revision_id": 36302,
+      "revision_timestamp": "2026-06-02T13:33:48Z"
+    },
+    {
+      "tag": "LUSENCCL",
+      "url": "https://vasp.at/wiki/LUSENCCL",
+      "revision_id": 18490,
+      "revision_timestamp": "2022-07-20T14:25:58Z"
+    },
+    {
+      "tag": "LUSE_VDW",
+      "url": "https://vasp.at/wiki/LUSE_VDW",
+      "revision_id": 28627,
+      "revision_timestamp": "2025-02-24T13:06:57Z"
+    },
+    {
+      "tag": "LVACPOTAV",
+      "url": "https://vasp.at/wiki/LVACPOTAV",
+      "revision_id": 24020,
+      "revision_timestamp": "2024-02-09T09:24:43Z"
+    },
+    {
+      "tag": "LVDWEXPANSION",
+      "url": "https://vasp.at/wiki/LVDWEXPANSION",
+      "revision_id": 17152,
+      "revision_timestamp": "2022-04-08T20:41:43Z"
+    },
+    {
+      "tag": "LVDWSCS",
+      "url": "https://vasp.at/wiki/LVDWSCS",
+      "revision_id": 37527,
+      "revision_timestamp": "2026-07-10T15:14:19Z"
+    },
+    {
+      "tag": "LVDW_EWALD",
+      "url": "https://vasp.at/wiki/LVDW_EWALD",
+      "revision_id": 24156,
+      "revision_timestamp": "2024-02-09T15:23:15Z"
+    },
+    {
+      "tag": "LVDW_ONECELL",
+      "url": "https://vasp.at/wiki/LVDW_ONECELL",
+      "revision_id": 16913,
+      "revision_timestamp": "2022-04-08T14:44:45Z"
+    },
+    {
+      "tag": "LVGVAPPL",
+      "url": "https://vasp.at/wiki/LVGVAPPL",
+      "revision_id": 29601,
+      "revision_timestamp": "2025-03-03T15:51:17Z"
+    },
+    {
+      "tag": "LVGVCALC",
+      "url": "https://vasp.at/wiki/LVGVCALC",
+      "revision_id": 29604,
+      "revision_timestamp": "2025-03-03T15:51:38Z"
+    },
+    {
+      "tag": "LVHAR",
+      "url": "https://vasp.at/wiki/LVHAR",
+      "revision_id": 24756,
+      "revision_timestamp": "2024-06-10T15:42:17Z"
+    },
+    {
+      "tag": "LVTOT",
+      "url": "https://vasp.at/wiki/LVTOT",
+      "revision_id": 27052,
+      "revision_timestamp": "2024-10-17T14:29:13Z"
+    },
+    {
+      "tag": "LWANNIER90",
+      "url": "https://vasp.at/wiki/LWANNIER90",
+      "revision_id": 30237,
+      "revision_timestamp": "2025-03-27T15:24:58Z"
+    },
+    {
+      "tag": "LWANNIER90_RUN",
+      "url": "https://vasp.at/wiki/LWANNIER90_RUN",
+      "revision_id": 35704,
+      "revision_timestamp": "2026-04-07T13:32:34Z"
+    },
+    {
+      "tag": "LWAVE",
+      "url": "https://vasp.at/wiki/LWAVE",
+      "revision_id": 37111,
+      "revision_timestamp": "2026-06-16T12:45:51Z"
+    },
+    {
+      "tag": "LWAVEH5",
+      "url": "https://vasp.at/wiki/LWAVEH5",
+      "revision_id": 37115,
+      "revision_timestamp": "2026-06-16T12:46:21Z"
+    },
+    {
+      "tag": "LWEIGHTED",
+      "url": "https://vasp.at/wiki/LWEIGHTED",
+      "revision_id": 35238,
+      "revision_timestamp": "2026-03-20T09:57:52Z"
+    },
+    {
+      "tag": "LWRITE_MMN_AMN",
+      "url": "https://vasp.at/wiki/LWRITE_MMN_AMN",
+      "revision_id": 18095,
+      "revision_timestamp": "2022-07-19T11:55:28Z"
+    },
+    {
+      "tag": "LWRITE_SPN",
+      "url": "https://vasp.at/wiki/LWRITE_SPN",
+      "revision_id": 26483,
+      "revision_timestamp": "2024-10-15T12:46:49Z"
+    },
+    {
+      "tag": "LWRITE_UNK",
+      "url": "https://vasp.at/wiki/LWRITE_UNK",
+      "revision_id": 18096,
+      "revision_timestamp": "2022-07-19T11:55:55Z"
+    },
+    {
+      "tag": "LWRITE_WANPROJ",
+      "url": "https://vasp.at/wiki/LWRITE_WANPROJ",
+      "revision_id": 30240,
+      "revision_timestamp": "2025-03-27T15:26:15Z"
+    },
+    {
+      "tag": "LWRT_AUGMENTED_DENSITY",
+      "url": "https://vasp.at/wiki/LWRT_AUGMENTED_DENSITY",
+      "revision_id": 34639,
+      "revision_timestamp": "2026-03-12T09:30:56Z"
+    },
+    {
+      "tag": "LZEROZ",
+      "url": "https://vasp.at/wiki/LZEROZ",
+      "revision_id": 26253,
+      "revision_timestamp": "2024-10-14T10:13:39Z"
+    },
+    {
+      "tag": "LZORA",
+      "url": "https://vasp.at/wiki/LZORA",
+      "revision_id": 36619,
+      "revision_timestamp": "2026-06-11T08:34:50Z"
+    },
+    {
+      "tag": "MAGMOM",
+      "url": "https://vasp.at/wiki/MAGMOM",
+      "revision_id": 36612,
+      "revision_timestamp": "2026-06-11T08:32:01Z"
+    },
+    {
+      "tag": "MAXDIS",
+      "url": "https://vasp.at/wiki/MAXDIS",
+      "revision_id": 36551,
+      "revision_timestamp": "2026-06-10T08:50:21Z"
+    },
+    {
+      "tag": "MAXMEM",
+      "url": "https://vasp.at/wiki/MAXMEM",
+      "revision_id": 24269,
+      "revision_timestamp": "2024-02-21T08:49:52Z"
+    },
+    {
+      "tag": "MAXMIX",
+      "url": "https://vasp.at/wiki/MAXMIX",
+      "revision_id": 27068,
+      "revision_timestamp": "2024-10-17T14:54:28Z"
+    },
+    {
+      "tag": "MDALGO",
+      "url": "https://vasp.at/wiki/MDALGO",
+      "revision_id": 32807,
+      "revision_timestamp": "2025-10-24T07:47:49Z"
+    },
+    {
+      "tag": "METAGGA",
+      "url": "https://vasp.at/wiki/METAGGA",
+      "revision_id": 35874,
+      "revision_timestamp": "2026-04-15T12:37:39Z"
+    },
+    {
+      "tag": "MINROT",
+      "url": "https://vasp.at/wiki/MINROT",
+      "revision_id": 22490,
+      "revision_timestamp": "2023-10-20T10:24:13Z"
+    },
+    {
+      "tag": "MIXPRE",
+      "url": "https://vasp.at/wiki/MIXPRE",
+      "revision_id": 27064,
+      "revision_timestamp": "2024-10-17T14:49:56Z"
+    },
+    {
+      "tag": "ML_AFILT2",
+      "url": "https://vasp.at/wiki/ML_AFILT2",
+      "revision_id": 16596,
+      "revision_timestamp": "2022-04-08T13:19:52Z"
+    },
+    {
+      "tag": "ML_CALGO",
+      "url": "https://vasp.at/wiki/ML_CALGO",
+      "revision_id": 27674,
+      "revision_timestamp": "2024-12-18T14:39:33Z"
+    },
+    {
+      "tag": "ML_CDOUB",
+      "url": "https://vasp.at/wiki/ML_CDOUB",
+      "revision_id": 32817,
+      "revision_timestamp": "2025-10-24T07:51:51Z"
+    },
+    {
+      "tag": "ML_CSIG",
+      "url": "https://vasp.at/wiki/ML_CSIG",
+      "revision_id": 25145,
+      "revision_timestamp": "2024-06-12T12:30:19Z"
+    },
+    {
+      "tag": "ML_CSLOPE",
+      "url": "https://vasp.at/wiki/ML_CSLOPE",
+      "revision_id": 25143,
+      "revision_timestamp": "2024-06-12T12:29:20Z"
+    },
+    {
+      "tag": "ML_CTIFOR",
+      "url": "https://vasp.at/wiki/ML_CTIFOR",
+      "revision_id": 27675,
+      "revision_timestamp": "2024-12-18T14:40:41Z"
+    },
+    {
+      "tag": "ML_CX",
+      "url": "https://vasp.at/wiki/ML_CX",
+      "revision_id": 25140,
+      "revision_timestamp": "2024-06-12T12:26:50Z"
+    },
+    {
+      "tag": "ML_DESC_TYPE",
+      "url": "https://vasp.at/wiki/ML_DESC_TYPE",
+      "revision_id": 32859,
+      "revision_timestamp": "2025-10-24T08:04:30Z"
+    },
+    {
+      "tag": "ML_EATOM_REF",
+      "url": "https://vasp.at/wiki/ML_EATOM_REF",
+      "revision_id": 32818,
+      "revision_timestamp": "2025-10-24T07:51:55Z"
+    },
+    {
+      "tag": "ML_EMPPOT_RCUT",
+      "url": "https://vasp.at/wiki/ML_EMPPOT_RCUT",
+      "revision_id": 34780,
+      "revision_timestamp": "2026-03-16T12:11:28Z"
+    },
+    {
+      "tag": "ML_EPS_LOW",
+      "url": "https://vasp.at/wiki/ML_EPS_LOW",
+      "revision_id": 20411,
+      "revision_timestamp": "2023-05-15T11:42:12Z"
+    },
+    {
+      "tag": "ML_EPS_REG",
+      "url": "https://vasp.at/wiki/ML_EPS_REG",
+      "revision_id": 17769,
+      "revision_timestamp": "2022-05-16T08:48:15Z"
+    },
+    {
+      "tag": "ML_ESTBLOCK",
+      "url": "https://vasp.at/wiki/ML_ESTBLOCK",
+      "revision_id": 36276,
+      "revision_timestamp": "2026-06-01T09:53:50Z"
+    },
+    {
+      "tag": "ML_GRACE_MODEL",
+      "url": "https://vasp.at/wiki/ML_GRACE_MODEL",
+      "revision_id": 35695,
+      "revision_timestamp": "2026-03-31T22:04:00Z"
+    },
+    {
+      "tag": "ML_IAFILT2",
+      "url": "https://vasp.at/wiki/ML_IAFILT2",
+      "revision_id": 18616,
+      "revision_timestamp": "2022-08-01T08:41:56Z"
+    },
+    {
+      "tag": "ML_IALGO_LINREG",
+      "url": "https://vasp.at/wiki/ML_IALGO_LINREG",
+      "revision_id": 31448,
+      "revision_timestamp": "2025-10-10T07:25:07Z"
+    },
+    {
+      "tag": "ML_ICOUPLE",
+      "url": "https://vasp.at/wiki/ML_ICOUPLE",
+      "revision_id": 16612,
+      "revision_timestamp": "2022-04-08T13:23:52Z"
+    },
+    {
+      "tag": "ML_ICRITERIA",
+      "url": "https://vasp.at/wiki/ML_ICRITERIA",
+      "revision_id": 36300,
+      "revision_timestamp": "2026-06-02T11:37:57Z"
+    },
+    {
+      "tag": "ML_IREG",
+      "url": "https://vasp.at/wiki/ML_IREG",
+      "revision_id": 16615,
+      "revision_timestamp": "2022-04-08T13:24:11Z"
+    },
+    {
+      "tag": "ML_ISCALE_TOTEN",
+      "url": "https://vasp.at/wiki/ML_ISCALE_TOTEN",
+      "revision_id": 32823,
+      "revision_timestamp": "2025-10-24T07:56:41Z"
+    },
+    {
+      "tag": "ML_ISTART",
+      "url": "https://vasp.at/wiki/ML_ISTART",
+      "revision_id": 22174,
+      "revision_timestamp": "2023-10-19T14:40:56Z"
+    },
+    {
+      "tag": "ML_IWEIGHT",
+      "url": "https://vasp.at/wiki/ML_IWEIGHT",
+      "revision_id": 31943,
+      "revision_timestamp": "2025-10-16T21:20:20Z"
+    },
+    {
+      "tag": "ML_LAFILT2",
+      "url": "https://vasp.at/wiki/ML_LAFILT2",
+      "revision_id": 16620,
+      "revision_timestamp": "2022-04-08T13:24:53Z"
+    },
+    {
+      "tag": "ML_LBASIS_DISCARD",
+      "url": "https://vasp.at/wiki/ML_LBASIS_DISCARD",
+      "revision_id": 26476,
+      "revision_timestamp": "2024-10-15T12:26:06Z"
+    },
+    {
+      "tag": "ML_LCOUPLE",
+      "url": "https://vasp.at/wiki/ML_LCOUPLE",
+      "revision_id": 35686,
+      "revision_timestamp": "2026-03-31T07:53:19Z"
+    },
+    {
+      "tag": "ML_LEATOM",
+      "url": "https://vasp.at/wiki/ML_LEATOM",
+      "revision_id": 16624,
+      "revision_timestamp": "2022-04-08T13:25:36Z"
+    },
+    {
+      "tag": "ML_LEMPPOT",
+      "url": "https://vasp.at/wiki/ML_LEMPPOT",
+      "revision_id": 34754,
+      "revision_timestamp": "2026-03-16T10:15:04Z"
+    },
+    {
+      "tag": "ML_LERR",
+      "url": "https://vasp.at/wiki/ML_LERR",
+      "revision_id": 22227,
+      "revision_timestamp": "2023-10-19T15:33:52Z"
+    },
+    {
+      "tag": "ML_LFAST",
+      "url": "https://vasp.at/wiki/ML_LFAST",
+      "revision_id": 32849,
+      "revision_timestamp": "2025-10-24T08:01:51Z"
+    },
+    {
+      "tag": "ML_LHEAT",
+      "url": "https://vasp.at/wiki/ML_LHEAT",
+      "revision_id": 17626,
+      "revision_timestamp": "2022-05-10T07:24:12Z"
+    },
+    {
+      "tag": "ML_LIB",
+      "url": "https://vasp.at/wiki/ML_LIB",
+      "revision_id": 29884,
+      "revision_timestamp": "2025-03-07T13:40:17Z"
+    },
+    {
+      "tag": "ML_LMAX2",
+      "url": "https://vasp.at/wiki/ML_LMAX2",
+      "revision_id": 20377,
+      "revision_timestamp": "2023-05-09T08:11:02Z"
+    },
+    {
+      "tag": "ML_LMLFF",
+      "url": "https://vasp.at/wiki/ML_LMLFF",
+      "revision_id": 22182,
+      "revision_timestamp": "2023-10-19T14:46:52Z"
+    },
+    {
+      "tag": "ML_LSPARSDES",
+      "url": "https://vasp.at/wiki/ML_LSPARSDES",
+      "revision_id": 26031,
+      "revision_timestamp": "2024-08-29T15:28:40Z"
+    },
+    {
+      "tag": "ML_LUSE_NAMES",
+      "url": "https://vasp.at/wiki/ML_LUSE_NAMES",
+      "revision_id": 26028,
+      "revision_timestamp": "2024-08-29T15:08:32Z"
+    },
+    {
+      "tag": "ML_MB",
+      "url": "https://vasp.at/wiki/ML_MB",
+      "revision_id": 32824,
+      "revision_timestamp": "2025-10-24T07:56:46Z"
+    },
+    {
+      "tag": "ML_MB_MIN",
+      "url": "https://vasp.at/wiki/ML_MB_MIN",
+      "revision_id": 32857,
+      "revision_timestamp": "2025-10-24T08:03:31Z"
+    },
+    {
+      "tag": "ML_MCONF",
+      "url": "https://vasp.at/wiki/ML_MCONF",
+      "revision_id": 20334,
+      "revision_timestamp": "2023-04-28T09:22:34Z"
+    },
+    {
+      "tag": "ML_MCONF_NEW",
+      "url": "https://vasp.at/wiki/ML_MCONF_NEW",
+      "revision_id": 32822,
+      "revision_timestamp": "2025-10-24T07:56:03Z"
+    },
+    {
+      "tag": "ML_MHIS",
+      "url": "https://vasp.at/wiki/ML_MHIS",
+      "revision_id": 25142,
+      "revision_timestamp": "2024-06-12T12:28:31Z"
+    },
+    {
+      "tag": "ML_MODE",
+      "url": "https://vasp.at/wiki/ML_MODE",
+      "revision_id": 35233,
+      "revision_timestamp": "2026-03-20T09:44:29Z"
+    },
+    {
+      "tag": "ML_MOPOT_DM",
+      "url": "https://vasp.at/wiki/ML_MOPOT_DM",
+      "revision_id": 35109,
+      "revision_timestamp": "2026-03-19T08:26:47Z"
+    },
+    {
+      "tag": "ML_MOPOT_IJM",
+      "url": "https://vasp.at/wiki/ML_MOPOT_IJM",
+      "revision_id": 35137,
+      "revision_timestamp": "2026-03-19T12:26:44Z"
+    },
+    {
+      "tag": "ML_MOPOT_NM",
+      "url": "https://vasp.at/wiki/ML_MOPOT_NM",
+      "revision_id": 35107,
+      "revision_timestamp": "2026-03-19T08:26:30Z"
+    },
+    {
+      "tag": "ML_MOPOT_RKM",
+      "url": "https://vasp.at/wiki/ML_MOPOT_RKM",
+      "revision_id": 35111,
+      "revision_timestamp": "2026-03-19T08:27:08Z"
+    },
+    {
+      "tag": "ML_MOPOT_RM",
+      "url": "https://vasp.at/wiki/ML_MOPOT_RM",
+      "revision_id": 35110,
+      "revision_timestamp": "2026-03-19T08:26:54Z"
+    },
+    {
+      "tag": "ML_MRB1",
+      "url": "https://vasp.at/wiki/ML_MRB1",
+      "revision_id": 20374,
+      "revision_timestamp": "2023-05-09T08:06:26Z"
+    },
+    {
+      "tag": "ML_MRB2",
+      "url": "https://vasp.at/wiki/ML_MRB2",
+      "revision_id": 20008,
+      "revision_timestamp": "2023-03-31T11:56:16Z"
+    },
+    {
+      "tag": "ML_NATOM_COUPLED",
+      "url": "https://vasp.at/wiki/ML_NATOM_COUPLED",
+      "revision_id": 16643,
+      "revision_timestamp": "2022-04-08T13:29:29Z"
+    },
+    {
+      "tag": "ML_NCSHMEM",
+      "url": "https://vasp.at/wiki/ML_NCSHMEM",
+      "revision_id": 35190,
+      "revision_timestamp": "2026-03-20T07:56:54Z"
+    },
+    {
+      "tag": "ML_NHYP",
+      "url": "https://vasp.at/wiki/ML_NHYP",
+      "revision_id": 16644,
+      "revision_timestamp": "2022-04-08T13:29:38Z"
+    },
+    {
+      "tag": "ML_NMDINT",
+      "url": "https://vasp.at/wiki/ML_NMDINT",
+      "revision_id": 22750,
+      "revision_timestamp": "2023-11-08T09:47:37Z"
+    },
+    {
+      "tag": "ML_NRANK_SPARSDES",
+      "url": "https://vasp.at/wiki/ML_NRANK_SPARSDES",
+      "revision_id": 24474,
+      "revision_timestamp": "2024-03-20T14:01:51Z"
+    },
+    {
+      "tag": "ML_OUTBLOCK",
+      "url": "https://vasp.at/wiki/ML_OUTBLOCK",
+      "revision_id": 35213,
+      "revision_timestamp": "2026-03-20T09:17:18Z"
+    },
+    {
+      "tag": "ML_OUTPUT_MODE",
+      "url": "https://vasp.at/wiki/ML_OUTPUT_MODE",
+      "revision_id": 32851,
+      "revision_timestamp": "2025-10-24T08:02:09Z"
+    },
+    {
+      "tag": "ML_RCOUPLE",
+      "url": "https://vasp.at/wiki/ML_RCOUPLE",
+      "revision_id": 35325,
+      "revision_timestamp": "2026-03-20T13:15:11Z"
+    },
+    {
+      "tag": "ML_RCUT1",
+      "url": "https://vasp.at/wiki/ML_RCUT1",
+      "revision_id": 20396,
+      "revision_timestamp": "2023-05-11T06:34:47Z"
+    },
+    {
+      "tag": "ML_RCUT2",
+      "url": "https://vasp.at/wiki/ML_RCUT2",
+      "revision_id": 20385,
+      "revision_timestamp": "2023-05-09T13:35:23Z"
+    },
+    {
+      "tag": "ML_RDES_SPARSDES",
+      "url": "https://vasp.at/wiki/ML_RDES_SPARSDES",
+      "revision_id": 24473,
+      "revision_timestamp": "2024-03-20T14:01:13Z"
+    },
+    {
+      "tag": "ML_SCLC_CTIFOR",
+      "url": "https://vasp.at/wiki/ML_SCLC_CTIFOR",
+      "revision_id": 25148,
+      "revision_timestamp": "2024-06-12T12:33:44Z"
+    },
+    {
+      "tag": "ML_SIGV0",
+      "url": "https://vasp.at/wiki/ML_SIGV0",
+      "revision_id": 20553,
+      "revision_timestamp": "2023-07-03T16:05:58Z"
+    },
+    {
+      "tag": "ML_SIGW0",
+      "url": "https://vasp.at/wiki/ML_SIGW0",
+      "revision_id": 26081,
+      "revision_timestamp": "2024-09-27T14:36:17Z"
+    },
+    {
+      "tag": "ML_SION1",
+      "url": "https://vasp.at/wiki/ML_SION1",
+      "revision_id": 16658,
+      "revision_timestamp": "2022-04-08T13:31:27Z"
+    },
+    {
+      "tag": "ML_SION2",
+      "url": "https://vasp.at/wiki/ML_SION2",
+      "revision_id": 16660,
+      "revision_timestamp": "2022-04-08T13:31:37Z"
+    },
+    {
+      "tag": "ML_SRPOT_B0",
+      "url": "https://vasp.at/wiki/ML_SRPOT_B0",
+      "revision_id": 35546,
+      "revision_timestamp": "2026-03-24T14:47:18Z"
+    },
+    {
+      "tag": "ML_SRPOT_N0",
+      "url": "https://vasp.at/wiki/ML_SRPOT_N0",
+      "revision_id": 35548,
+      "revision_timestamp": "2026-03-24T15:03:24Z"
+    },
+    {
+      "tag": "ML_SRPOT_S0",
+      "url": "https://vasp.at/wiki/ML_SRPOT_S0",
+      "revision_id": 35547,
+      "revision_timestamp": "2026-03-24T15:02:59Z"
+    },
+    {
+      "tag": "ML_TYPE",
+      "url": "https://vasp.at/wiki/ML_TYPE",
+      "revision_id": 35694,
+      "revision_timestamp": "2026-03-31T21:48:00Z"
+    },
+    {
+      "tag": "ML_W1",
+      "url": "https://vasp.at/wiki/ML_W1",
+      "revision_id": 16661,
+      "revision_timestamp": "2022-04-08T13:31:44Z"
+    },
+    {
+      "tag": "ML_WTIFOR",
+      "url": "https://vasp.at/wiki/ML_WTIFOR",
+      "revision_id": 16662,
+      "revision_timestamp": "2022-04-08T13:31:53Z"
+    },
+    {
+      "tag": "ML_WTOTEN",
+      "url": "https://vasp.at/wiki/ML_WTOTEN",
+      "revision_id": 20743,
+      "revision_timestamp": "2023-10-03T08:17:55Z"
+    },
+    {
+      "tag": "ML_WTSIF",
+      "url": "https://vasp.at/wiki/ML_WTSIF",
+      "revision_id": 16664,
+      "revision_timestamp": "2022-04-08T13:32:08Z"
+    },
+    {
+      "tag": "MSDGW_F",
+      "url": "https://vasp.at/wiki/MSDGW_F",
+      "revision_id": 36380,
+      "revision_timestamp": "2026-06-08T07:32:59Z"
+    },
+    {
+      "tag": "M_CONSTR",
+      "url": "https://vasp.at/wiki/M_CONSTR",
+      "revision_id": 16918,
+      "revision_timestamp": "2022-04-08T14:45:11Z"
+    },
+    {
+      "tag": "NATURALO",
+      "url": "https://vasp.at/wiki/NATURALO",
+      "revision_id": 27413,
+      "revision_timestamp": "2024-11-29T15:12:45Z"
+    },
+    {
+      "tag": "NBANDS",
+      "url": "https://vasp.at/wiki/NBANDS",
+      "revision_id": 31110,
+      "revision_timestamp": "2025-09-03T15:00:56Z"
+    },
+    {
+      "tag": "NBANDSEXACT",
+      "url": "https://vasp.at/wiki/NBANDSEXACT",
+      "revision_id": 24272,
+      "revision_timestamp": "2024-02-21T08:51:13Z"
+    },
+    {
+      "tag": "NBANDSGW",
+      "url": "https://vasp.at/wiki/NBANDSGW",
+      "revision_id": 18031,
+      "revision_timestamp": "2022-07-19T10:21:14Z"
+    },
+    {
+      "tag": "NBANDSO",
+      "url": "https://vasp.at/wiki/NBANDSO",
+      "revision_id": 17869,
+      "revision_timestamp": "2022-06-24T09:17:58Z"
+    },
+    {
+      "tag": "NBANDSV",
+      "url": "https://vasp.at/wiki/NBANDSV",
+      "revision_id": 17873,
+      "revision_timestamp": "2022-06-24T11:24:47Z"
+    },
+    {
+      "tag": "NBANDS_WAVE",
+      "url": "https://vasp.at/wiki/NBANDS_WAVE",
+      "revision_id": 24555,
+      "revision_timestamp": "2024-05-17T07:54:33Z"
+    },
+    {
+      "tag": "NBLK",
+      "url": "https://vasp.at/wiki/NBLK",
+      "revision_id": 16937,
+      "revision_timestamp": "2022-04-08T14:47:05Z"
+    },
+    {
+      "tag": "NBLOCK",
+      "url": "https://vasp.at/wiki/NBLOCK",
+      "revision_id": 32796,
+      "revision_timestamp": "2025-10-24T07:37:49Z"
+    },
+    {
+      "tag": "NBLOCK_FOCK",
+      "url": "https://vasp.at/wiki/NBLOCK_FOCK",
+      "revision_id": 35690,
+      "revision_timestamp": "2026-03-31T08:18:29Z"
+    },
+    {
+      "tag": "NBMOD",
+      "url": "https://vasp.at/wiki/NBMOD",
+      "revision_id": 27581,
+      "revision_timestamp": "2024-12-18T11:29:00Z"
+    },
+    {
+      "tag": "NBSEBLOCKO",
+      "url": "https://vasp.at/wiki/NBSEBLOCKO",
+      "revision_id": 27485,
+      "revision_timestamp": "2024-12-18T09:53:17Z"
+    },
+    {
+      "tag": "NBSEBLOCKV",
+      "url": "https://vasp.at/wiki/NBSEBLOCKV",
+      "revision_id": 27481,
+      "revision_timestamp": "2024-12-18T09:52:44Z"
+    },
+    {
+      "tag": "NBSEEIG",
+      "url": "https://vasp.at/wiki/NBSEEIG",
+      "revision_id": 26034,
+      "revision_timestamp": "2024-08-30T13:32:49Z"
+    },
+    {
+      "tag": "NCORE",
+      "url": "https://vasp.at/wiki/NCORE",
+      "revision_id": 34976,
+      "revision_timestamp": "2026-03-18T09:37:02Z"
+    },
+    {
+      "tag": "NCORE_IN_IMAGE1",
+      "url": "https://vasp.at/wiki/NCORE_IN_IMAGE1",
+      "revision_id": 26797,
+      "revision_timestamp": "2024-10-16T14:05:47Z"
+    },
+    {
+      "tag": "NCRPA_BANDS",
+      "url": "https://vasp.at/wiki/NCRPA_BANDS",
+      "revision_id": 35239,
+      "revision_timestamp": "2026-03-20T09:57:52Z"
+    },
+    {
+      "tag": "NEDOS",
+      "url": "https://vasp.at/wiki/NEDOS",
+      "revision_id": 27011,
+      "revision_timestamp": "2024-10-17T13:46:26Z"
+    },
+    {
+      "tag": "NELECT",
+      "url": "https://vasp.at/wiki/NELECT",
+      "revision_id": 32552,
+      "revision_timestamp": "2025-10-20T14:02:41Z"
+    },
+    {
+      "tag": "NELM",
+      "url": "https://vasp.at/wiki/NELM",
+      "revision_id": 25364,
+      "revision_timestamp": "2024-06-20T05:52:01Z"
+    },
+    {
+      "tag": "NELMDL",
+      "url": "https://vasp.at/wiki/NELMDL",
+      "revision_id": 22877,
+      "revision_timestamp": "2023-11-27T13:44:26Z"
+    },
+    {
+      "tag": "NELMGW",
+      "url": "https://vasp.at/wiki/NELMGW",
+      "revision_id": 26712,
+      "revision_timestamp": "2024-10-16T12:23:56Z"
+    },
+    {
+      "tag": "NELMIN",
+      "url": "https://vasp.at/wiki/NELMIN",
+      "revision_id": 16120,
+      "revision_timestamp": "2022-04-07T14:54:10Z"
+    },
+    {
+      "tag": "NFREE",
+      "url": "https://vasp.at/wiki/NFREE",
+      "revision_id": 30399,
+      "revision_timestamp": "2025-04-08T06:41:49Z"
+    },
+    {
+      "tag": "NGX",
+      "url": "https://vasp.at/wiki/NGX",
+      "revision_id": 26990,
+      "revision_timestamp": "2024-10-17T11:55:02Z"
+    },
+    {
+      "tag": "NGXF",
+      "url": "https://vasp.at/wiki/NGXF",
+      "revision_id": 26995,
+      "revision_timestamp": "2024-10-17T11:56:30Z"
+    },
+    {
+      "tag": "NGY",
+      "url": "https://vasp.at/wiki/NGY",
+      "revision_id": 26991,
+      "revision_timestamp": "2024-10-17T11:56:02Z"
+    },
+    {
+      "tag": "NGYF",
+      "url": "https://vasp.at/wiki/NGYF",
+      "revision_id": 26997,
+      "revision_timestamp": "2024-10-17T11:56:46Z"
+    },
+    {
+      "tag": "NGYROMAG",
+      "url": "https://vasp.at/wiki/NGYROMAG",
+      "revision_id": 30749,
+      "revision_timestamp": "2025-05-12T11:41:47Z"
+    },
+    {
+      "tag": "NGZ",
+      "url": "https://vasp.at/wiki/NGZ",
+      "revision_id": 26992,
+      "revision_timestamp": "2024-10-17T11:56:12Z"
+    },
+    {
+      "tag": "NGZF",
+      "url": "https://vasp.at/wiki/NGZF",
+      "revision_id": 26998,
+      "revision_timestamp": "2024-10-17T11:57:04Z"
+    },
+    {
+      "tag": "NHC_NCHAINS",
+      "url": "https://vasp.at/wiki/NHC_NCHAINS",
+      "revision_id": 32337,
+      "revision_timestamp": "2025-10-17T21:46:28Z"
+    },
+    {
+      "tag": "NHC_NRESPA",
+      "url": "https://vasp.at/wiki/NHC_NRESPA",
+      "revision_id": 32339,
+      "revision_timestamp": "2025-10-17T21:47:05Z"
+    },
+    {
+      "tag": "NHC_NS",
+      "url": "https://vasp.at/wiki/NHC_NS",
+      "revision_id": 32340,
+      "revision_timestamp": "2025-10-17T21:47:41Z"
+    },
+    {
+      "tag": "NICS",
+      "url": "https://vasp.at/wiki/NICS",
+      "revision_id": 34570,
+      "revision_timestamp": "2026-03-10T09:04:01Z"
+    },
+    {
+      "tag": "NKRED",
+      "url": "https://vasp.at/wiki/NKRED",
+      "revision_id": 21675,
+      "revision_timestamp": "2023-10-18T12:03:13Z"
+    },
+    {
+      "tag": "NKREDX",
+      "url": "https://vasp.at/wiki/NKREDX",
+      "revision_id": 21676,
+      "revision_timestamp": "2023-10-18T12:03:58Z"
+    },
+    {
+      "tag": "NKREDY",
+      "url": "https://vasp.at/wiki/NKREDY",
+      "revision_id": 21677,
+      "revision_timestamp": "2023-10-18T12:04:17Z"
+    },
+    {
+      "tag": "NKREDZ",
+      "url": "https://vasp.at/wiki/NKREDZ",
+      "revision_id": 21678,
+      "revision_timestamp": "2023-10-18T12:04:25Z"
+    },
+    {
+      "tag": "NLSPLINE",
+      "url": "https://vasp.at/wiki/NLSPLINE",
+      "revision_id": 27292,
+      "revision_timestamp": "2024-10-21T11:38:19Z"
+    },
+    {
+      "tag": "NMAXFOCKAE",
+      "url": "https://vasp.at/wiki/NMAXFOCKAE",
+      "revision_id": 37600,
+      "revision_timestamp": "2026-07-22T13:41:45Z"
+    },
+    {
+      "tag": "NMRCAR.MAGRES",
+      "url": "https://vasp.at/wiki/NMRCAR.magres",
+      "revision_id": 34765,
+      "revision_timestamp": "2026-03-16T10:42:14Z"
+    },
+    {
+      "tag": "NOMEGA",
+      "url": "https://vasp.at/wiki/NOMEGA",
+      "revision_id": 33377,
+      "revision_timestamp": "2026-01-22T16:34:35Z"
+    },
+    {
+      "tag": "NOMEGAPAR",
+      "url": "https://vasp.at/wiki/NOMEGAPAR",
+      "revision_id": 24276,
+      "revision_timestamp": "2024-02-21T08:54:33Z"
+    },
+    {
+      "tag": "NOMEGAR",
+      "url": "https://vasp.at/wiki/NOMEGAR",
+      "revision_id": 16970,
+      "revision_timestamp": "2022-04-08T14:50:16Z"
+    },
+    {
+      "tag": "NOMEGA_DUMP",
+      "url": "https://vasp.at/wiki/NOMEGA_DUMP",
+      "revision_id": 30229,
+      "revision_timestamp": "2025-03-27T13:42:13Z"
+    },
+    {
+      "tag": "NPACO",
+      "url": "https://vasp.at/wiki/NPACO",
+      "revision_id": 16356,
+      "revision_timestamp": "2022-04-08T08:22:13Z"
+    },
+    {
+      "tag": "NPAR",
+      "url": "https://vasp.at/wiki/NPAR",
+      "revision_id": 34975,
+      "revision_timestamp": "2026-03-18T09:35:32Z"
+    },
+    {
+      "tag": "NPPSTR",
+      "url": "https://vasp.at/wiki/NPPSTR",
+      "revision_id": 31526,
+      "revision_timestamp": "2025-10-14T14:29:11Z"
+    },
+    {
+      "tag": "NRMM",
+      "url": "https://vasp.at/wiki/NRMM",
+      "revision_id": 27051,
+      "revision_timestamp": "2024-10-17T14:28:13Z"
+    },
+    {
+      "tag": "NSIM",
+      "url": "https://vasp.at/wiki/NSIM",
+      "revision_id": 32108,
+      "revision_timestamp": "2025-10-17T13:00:44Z"
+    },
+    {
+      "tag": "NSTORB",
+      "url": "https://vasp.at/wiki/NSTORB",
+      "revision_id": 35870,
+      "revision_timestamp": "2026-04-15T12:37:09Z"
+    },
+    {
+      "tag": "NSUBSYS",
+      "url": "https://vasp.at/wiki/NSUBSYS",
+      "revision_id": 16065,
+      "revision_timestamp": "2022-04-07T14:14:25Z"
+    },
+    {
+      "tag": "NSW",
+      "url": "https://vasp.at/wiki/NSW",
+      "revision_id": 33294,
+      "revision_timestamp": "2026-01-21T11:03:26Z"
+    },
+    {
+      "tag": "NTARGET_STATES",
+      "url": "https://vasp.at/wiki/NTARGET_STATES",
+      "revision_id": 36496,
+      "revision_timestamp": "2026-06-09T09:32:20Z"
+    },
+    {
+      "tag": "NTAUPAR",
+      "url": "https://vasp.at/wiki/NTAUPAR",
+      "revision_id": 24279,
+      "revision_timestamp": "2024-02-21T08:55:21Z"
+    },
+    {
+      "tag": "NTEMPER",
+      "url": "https://vasp.at/wiki/NTEMPER",
+      "revision_id": 33095,
+      "revision_timestamp": "2025-11-19T10:03:12Z"
+    },
+    {
+      "tag": "NUCIND",
+      "url": "https://vasp.at/wiki/NUCIND",
+      "revision_id": 34906,
+      "revision_timestamp": "2026-03-17T13:14:06Z"
+    },
+    {
+      "tag": "NUM_WANN",
+      "url": "https://vasp.at/wiki/NUM_WANN",
+      "revision_id": 30236,
+      "revision_timestamp": "2025-03-27T15:24:48Z"
+    },
+    {
+      "tag": "NUPDOWN",
+      "url": "https://vasp.at/wiki/NUPDOWN",
+      "revision_id": 33286,
+      "revision_timestamp": "2026-01-20T09:42:50Z"
+    },
+    {
+      "tag": "NWRITE",
+      "url": "https://vasp.at/wiki/NWRITE",
+      "revision_id": 32813,
+      "revision_timestamp": "2025-10-24T07:50:32Z"
+    },
+    {
+      "tag": "ODDONLY",
+      "url": "https://vasp.at/wiki/ODDONLY",
+      "revision_id": 21680,
+      "revision_timestamp": "2023-10-18T12:04:43Z"
+    },
+    {
+      "tag": "ODDONLYGW",
+      "url": "https://vasp.at/wiki/ODDONLYGW",
+      "revision_id": 18044,
+      "revision_timestamp": "2022-07-19T10:25:01Z"
+    },
+    {
+      "tag": "OFIELD_A",
+      "url": "https://vasp.at/wiki/OFIELD_A",
+      "revision_id": 26658,
+      "revision_timestamp": "2024-10-16T11:48:51Z"
+    },
+    {
+      "tag": "OFIELD_KAPPA",
+      "url": "https://vasp.at/wiki/OFIELD_KAPPA",
+      "revision_id": 35868,
+      "revision_timestamp": "2026-04-15T12:36:15Z"
+    },
+    {
+      "tag": "OFIELD_Q6_FAR",
+      "url": "https://vasp.at/wiki/OFIELD_Q6_FAR",
+      "revision_id": 26662,
+      "revision_timestamp": "2024-10-16T11:49:33Z"
+    },
+    {
+      "tag": "OFIELD_Q6_NEAR",
+      "url": "https://vasp.at/wiki/OFIELD_Q6_NEAR",
+      "revision_id": 26663,
+      "revision_timestamp": "2024-10-16T11:50:07Z"
+    },
+    {
+      "tag": "OMEGAMAX",
+      "url": "https://vasp.at/wiki/OMEGAMAX",
+      "revision_id": 31075,
+      "revision_timestamp": "2025-08-12T11:29:56Z"
+    },
+    {
+      "tag": "OMEGAMIN",
+      "url": "https://vasp.at/wiki/OMEGAMIN",
+      "revision_id": 18046,
+      "revision_timestamp": "2022-07-19T10:26:19Z"
+    },
+    {
+      "tag": "OMEGATL",
+      "url": "https://vasp.at/wiki/OMEGATL",
+      "revision_id": 18047,
+      "revision_timestamp": "2022-07-19T10:26:46Z"
+    },
+    {
+      "tag": "PARAM1",
+      "url": "https://vasp.at/wiki/PARAM1",
+      "revision_id": 24425,
+      "revision_timestamp": "2024-03-19T12:28:16Z"
+    },
+    {
+      "tag": "PARAM2",
+      "url": "https://vasp.at/wiki/PARAM2",
+      "revision_id": 24427,
+      "revision_timestamp": "2024-03-19T12:36:50Z"
+    },
+    {
+      "tag": "PFLAT",
+      "url": "https://vasp.at/wiki/PFLAT",
+      "revision_id": 16988,
+      "revision_timestamp": "2022-04-08T14:53:16Z"
+    },
+    {
+      "tag": "PHON_BORN_CHARGES",
+      "url": "https://vasp.at/wiki/PHON_BORN_CHARGES",
+      "revision_id": 22584,
+      "revision_timestamp": "2023-10-23T10:35:38Z"
+    },
+    {
+      "tag": "PHON_DIELECTRIC",
+      "url": "https://vasp.at/wiki/PHON_DIELECTRIC",
+      "revision_id": 22583,
+      "revision_timestamp": "2023-10-23T10:35:15Z"
+    },
+    {
+      "tag": "PHON_DOS",
+      "url": "https://vasp.at/wiki/PHON_DOS",
+      "revision_id": 18804,
+      "revision_timestamp": "2022-08-11T12:31:40Z"
+    },
+    {
+      "tag": "PHON_G_CUTOFF",
+      "url": "https://vasp.at/wiki/PHON_G_CUTOFF",
+      "revision_id": 22585,
+      "revision_timestamp": "2023-10-23T10:36:09Z"
+    },
+    {
+      "tag": "PHON_LBOSE",
+      "url": "https://vasp.at/wiki/PHON_LBOSE",
+      "revision_id": 33380,
+      "revision_timestamp": "2026-01-26T12:40:03Z"
+    },
+    {
+      "tag": "PHON_LMC",
+      "url": "https://vasp.at/wiki/PHON_LMC",
+      "revision_id": 33382,
+      "revision_timestamp": "2026-01-26T12:40:53Z"
+    },
+    {
+      "tag": "PHON_NEDOS",
+      "url": "https://vasp.at/wiki/PHON_NEDOS",
+      "revision_id": 24233,
+      "revision_timestamp": "2024-02-20T08:59:07Z"
+    },
+    {
+      "tag": "PHON_NSTRUCT",
+      "url": "https://vasp.at/wiki/PHON_NSTRUCT",
+      "revision_id": 33381,
+      "revision_timestamp": "2026-01-26T12:40:26Z"
+    },
+    {
+      "tag": "PHON_NWRITE",
+      "url": "https://vasp.at/wiki/PHON_NWRITE",
+      "revision_id": 22586,
+      "revision_timestamp": "2023-10-23T10:48:23Z"
+    },
+    {
+      "tag": "PHON_SIGMA",
+      "url": "https://vasp.at/wiki/PHON_SIGMA",
+      "revision_id": 24232,
+      "revision_timestamp": "2024-02-20T08:58:12Z"
+    },
+    {
+      "tag": "PHON_TLIST",
+      "url": "https://vasp.at/wiki/PHON_TLIST",
+      "revision_id": 33379,
+      "revision_timestamp": "2026-01-26T12:37:20Z"
+    },
+    {
+      "tag": "PLEVEL",
+      "url": "https://vasp.at/wiki/PLEVEL",
+      "revision_id": 27063,
+      "revision_timestamp": "2024-10-17T14:49:03Z"
+    },
+    {
+      "tag": "PLUGINS/FORCE_AND_STRESS",
+      "url": "https://vasp.at/wiki/PLUGINS/FORCE_AND_STRESS",
+      "revision_id": 34748,
+      "revision_timestamp": "2026-03-16T10:06:56Z"
+    },
+    {
+      "tag": "PLUGINS/LOCAL_POTENTIAL",
+      "url": "https://vasp.at/wiki/PLUGINS/LOCAL_POTENTIAL",
+      "revision_id": 34749,
+      "revision_timestamp": "2026-03-16T10:07:11Z"
+    },
+    {
+      "tag": "PLUGINS/MACHINE_LEARNING",
+      "url": "https://vasp.at/wiki/PLUGINS/MACHINE_LEARNING",
+      "revision_id": 34715,
+      "revision_timestamp": "2026-03-16T08:43:32Z"
+    },
+    {
+      "tag": "PLUGINS/ML_MODE",
+      "url": "https://vasp.at/wiki/PLUGINS/ML_MODE",
+      "revision_id": 34743,
+      "revision_timestamp": "2026-03-16T10:00:26Z"
+    },
+    {
+      "tag": "PLUGINS/ML_OUTBLOCK",
+      "url": "https://vasp.at/wiki/PLUGINS/ML_OUTBLOCK",
+      "revision_id": 34746,
+      "revision_timestamp": "2026-03-16T10:04:25Z"
+    },
+    {
+      "tag": "PLUGINS/ML_OUTPUT_MODE",
+      "url": "https://vasp.at/wiki/PLUGINS/ML_OUTPUT_MODE",
+      "revision_id": 34752,
+      "revision_timestamp": "2026-03-16T10:14:19Z"
+    },
+    {
+      "tag": "PLUGINS/NEIGHBOR_CUTOFF",
+      "url": "https://vasp.at/wiki/PLUGINS/NEIGHBOR_CUTOFF",
+      "revision_id": 34742,
+      "revision_timestamp": "2026-03-16T09:53:21Z"
+    },
+    {
+      "tag": "PLUGINS/OCCUPANCIES",
+      "url": "https://vasp.at/wiki/PLUGINS/OCCUPANCIES",
+      "revision_id": 34750,
+      "revision_timestamp": "2026-03-16T10:07:28Z"
+    },
+    {
+      "tag": "PLUGINS/STRUCTURE",
+      "url": "https://vasp.at/wiki/PLUGINS/STRUCTURE",
+      "revision_id": 34751,
+      "revision_timestamp": "2026-03-16T10:07:38Z"
+    },
+    {
+      "tag": "PMASS",
+      "url": "https://vasp.at/wiki/PMASS",
+      "revision_id": 34227,
+      "revision_timestamp": "2026-02-15T19:47:24Z"
+    },
+    {
+      "tag": "POMASS",
+      "url": "https://vasp.at/wiki/POMASS",
+      "revision_id": 26981,
+      "revision_timestamp": "2024-10-17T11:48:25Z"
+    },
+    {
+      "tag": "POSNICS",
+      "url": "https://vasp.at/wiki/POSNICS",
+      "revision_id": 34574,
+      "revision_timestamp": "2026-03-10T09:04:22Z"
+    },
+    {
+      "tag": "POTIM",
+      "url": "https://vasp.at/wiki/POTIM",
+      "revision_id": 27209,
+      "revision_timestamp": "2024-10-18T11:50:56Z"
+    },
+    {
+      "tag": "PREC",
+      "url": "https://vasp.at/wiki/PREC",
+      "revision_id": 31482,
+      "revision_timestamp": "2025-10-14T08:32:09Z"
+    },
+    {
+      "tag": "PRECFOCK",
+      "url": "https://vasp.at/wiki/PRECFOCK",
+      "revision_id": 34420,
+      "revision_timestamp": "2026-03-04T15:06:12Z"
+    },
+    {
+      "tag": "PROFILING",
+      "url": "https://vasp.at/wiki/Profiling",
+      "revision_id": 16991,
+      "revision_timestamp": "2022-04-08T14:53:43Z"
+    },
+    {
+      "tag": "PROUTINE",
+      "url": "https://vasp.at/wiki/PROUTINE",
+      "revision_id": 16992,
+      "revision_timestamp": "2022-04-08T14:53:50Z"
+    },
+    {
+      "tag": "PSTRESS",
+      "url": "https://vasp.at/wiki/PSTRESS",
+      "revision_id": 25988,
+      "revision_timestamp": "2024-08-19T12:10:09Z"
+    },
+    {
+      "tag": "PSUBSYS",
+      "url": "https://vasp.at/wiki/PSUBSYS",
+      "revision_id": 16074,
+      "revision_timestamp": "2022-04-07T14:23:35Z"
+    },
+    {
+      "tag": "PTHRESHOLD",
+      "url": "https://vasp.at/wiki/PTHRESHOLD",
+      "revision_id": 16993,
+      "revision_timestamp": "2022-04-08T14:53:56Z"
+    },
+    {
+      "tag": "QMAXFOCKAE",
+      "url": "https://vasp.at/wiki/QMAXFOCKAE",
+      "revision_id": 27006,
+      "revision_timestamp": "2024-10-17T12:55:40Z"
+    },
+    {
+      "tag": "QSPIRAL",
+      "url": "https://vasp.at/wiki/QSPIRAL",
+      "revision_id": 16995,
+      "revision_timestamp": "2022-04-08T14:54:05Z"
+    },
+    {
+      "tag": "QUAD_EFG",
+      "url": "https://vasp.at/wiki/QUAD_EFG",
+      "revision_id": 30853,
+      "revision_timestamp": "2025-05-26T15:30:48Z"
+    },
+    {
+      "tag": "RANDOM_GENERATOR",
+      "url": "https://vasp.at/wiki/RANDOM_GENERATOR",
+      "revision_id": 32915,
+      "revision_timestamp": "2025-10-24T08:13:06Z"
+    },
+    {
+      "tag": "RANDOM_SEED",
+      "url": "https://vasp.at/wiki/RANDOM_SEED",
+      "revision_id": 37188,
+      "revision_timestamp": "2026-06-18T07:30:32Z"
+    },
+    {
+      "tag": "ROPT",
+      "url": "https://vasp.at/wiki/ROPT",
+      "revision_id": 27293,
+      "revision_timestamp": "2024-10-21T11:38:48Z"
+    },
+    {
+      "tag": "RSMBJ",
+      "url": "https://vasp.at/wiki/RSMBJ",
+      "revision_id": 29399,
+      "revision_timestamp": "2025-02-27T15:19:05Z"
+    },
+    {
+      "tag": "RWIGS",
+      "url": "https://vasp.at/wiki/RWIGS",
+      "revision_id": 27061,
+      "revision_timestamp": "2024-10-17T14:47:26Z"
+    },
+    {
+      "tag": "SAXIS",
+      "url": "https://vasp.at/wiki/SAXIS",
+      "revision_id": 36604,
+      "revision_timestamp": "2026-06-11T08:10:34Z"
+    },
+    {
+      "tag": "SCALEE",
+      "url": "https://vasp.at/wiki/SCALEE",
+      "revision_id": 26796,
+      "revision_timestamp": "2024-10-16T14:05:03Z"
+    },
+    {
+      "tag": "SCISSOR",
+      "url": "https://vasp.at/wiki/SCISSOR",
+      "revision_id": 25097,
+      "revision_timestamp": "2024-06-12T10:14:01Z"
+    },
+    {
+      "tag": "SCSRAD",
+      "url": "https://vasp.at/wiki/SCSRAD",
+      "revision_id": 24547,
+      "revision_timestamp": "2024-05-08T07:31:50Z"
+    },
+    {
+      "tag": "SDFTD3_DAMPING",
+      "url": "https://vasp.at/wiki/SDFTD3_DAMPING",
+      "revision_id": 34363,
+      "revision_timestamp": "2026-03-02T10:58:47Z"
+    },
+    {
+      "tag": "SDFTD3_XC",
+      "url": "https://vasp.at/wiki/SDFTD3_XC",
+      "revision_id": 34411,
+      "revision_timestamp": "2026-03-04T13:41:43Z"
+    },
+    {
+      "tag": "SHAKEMAXITER",
+      "url": "https://vasp.at/wiki/SHAKEMAXITER",
+      "revision_id": 36165,
+      "revision_timestamp": "2026-05-28T13:28:28Z"
+    },
+    {
+      "tag": "SHAKETOL",
+      "url": "https://vasp.at/wiki/SHAKETOL",
+      "revision_id": 36168,
+      "revision_timestamp": "2026-05-28T13:28:55Z"
+    },
+    {
+      "tag": "SHAKETOLSOFT",
+      "url": "https://vasp.at/wiki/SHAKETOLSOFT",
+      "revision_id": 36166,
+      "revision_timestamp": "2026-05-28T13:28:43Z"
+    },
+    {
+      "tag": "SIGMA",
+      "url": "https://vasp.at/wiki/SIGMA",
+      "revision_id": 29259,
+      "revision_timestamp": "2025-02-27T10:34:29Z"
+    },
+    {
+      "tag": "SMASS",
+      "url": "https://vasp.at/wiki/SMASS",
+      "revision_id": 32799,
+      "revision_timestamp": "2025-10-24T07:45:17Z"
+    },
+    {
+      "tag": "SMBJ",
+      "url": "https://vasp.at/wiki/SMBJ",
+      "revision_id": 29400,
+      "revision_timestamp": "2025-02-27T15:19:11Z"
+    },
+    {
+      "tag": "SMEARINGS",
+      "url": "https://vasp.at/wiki/SMEARINGS",
+      "revision_id": 32811,
+      "revision_timestamp": "2025-10-24T07:49:03Z"
+    },
+    {
+      "tag": "SPRING",
+      "url": "https://vasp.at/wiki/SPRING",
+      "revision_id": 27428,
+      "revision_timestamp": "2024-12-11T13:16:22Z"
+    },
+    {
+      "tag": "SPRING_K",
+      "url": "https://vasp.at/wiki/SPRING_K",
+      "revision_id": 29885,
+      "revision_timestamp": "2025-03-07T13:40:29Z"
+    },
+    {
+      "tag": "SPRING_R0",
+      "url": "https://vasp.at/wiki/SPRING_R0",
+      "revision_id": 29886,
+      "revision_timestamp": "2025-03-07T13:40:39Z"
+    },
+    {
+      "tag": "SPRING_V0",
+      "url": "https://vasp.at/wiki/SPRING_V0",
+      "revision_id": 29887,
+      "revision_timestamp": "2025-03-07T13:40:49Z"
+    },
+    {
+      "tag": "STEP_MAX",
+      "url": "https://vasp.at/wiki/STEP_MAX",
+      "revision_id": 22491,
+      "revision_timestamp": "2023-10-20T10:24:24Z"
+    },
+    {
+      "tag": "STEP_SIZE",
+      "url": "https://vasp.at/wiki/STEP_SIZE",
+      "revision_id": 22492,
+      "revision_timestamp": "2023-10-20T10:24:36Z"
+    },
+    {
+      "tag": "STOP_ON",
+      "url": "https://vasp.at/wiki/STOP_ON",
+      "revision_id": 27225,
+      "revision_timestamp": "2024-10-18T12:19:34Z"
+    },
+    {
+      "tag": "SYMPREC",
+      "url": "https://vasp.at/wiki/SYMPREC",
+      "revision_id": 27002,
+      "revision_timestamp": "2024-10-17T12:03:17Z"
+    },
+    {
+      "tag": "SYSTEM",
+      "url": "https://vasp.at/wiki/SYSTEM",
+      "revision_id": 27057,
+      "revision_timestamp": "2024-10-17T14:43:43Z"
+    },
+    {
+      "tag": "TEBEG",
+      "url": "https://vasp.at/wiki/TEBEG",
+      "revision_id": 32295,
+      "revision_timestamp": "2025-10-17T21:05:51Z"
+    },
+    {
+      "tag": "TEEND",
+      "url": "https://vasp.at/wiki/TEEND",
+      "revision_id": 30093,
+      "revision_timestamp": "2025-03-20T15:26:41Z"
+    },
+    {
+      "tag": "TILAMBDA",
+      "url": "https://vasp.at/wiki/TILAMBDA",
+      "revision_id": 35579,
+      "revision_timestamp": "2026-03-25T13:58:26Z"
+    },
+    {
+      "tag": "TIME",
+      "url": "https://vasp.at/wiki/TIME",
+      "revision_id": 25497,
+      "revision_timestamp": "2024-07-02T11:56:49Z"
+    },
+    {
+      "tag": "TRANSPORT_NEDOS",
+      "url": "https://vasp.at/wiki/TRANSPORT_NEDOS",
+      "revision_id": 32984,
+      "revision_timestamp": "2025-10-24T14:56:45Z"
+    },
+    {
+      "tag": "TRANSPORT_RELAXATION_TIME",
+      "url": "https://vasp.at/wiki/TRANSPORT_RELAXATION_TIME",
+      "revision_id": 32865,
+      "revision_timestamp": "2025-10-24T08:05:53Z"
+    },
+    {
+      "tag": "TSUBSYS",
+      "url": "https://vasp.at/wiki/TSUBSYS",
+      "revision_id": 16096,
+      "revision_timestamp": "2022-04-07T14:34:51Z"
+    },
+    {
+      "tag": "VACPOTFLAT",
+      "url": "https://vasp.at/wiki/VACPOTFLAT",
+      "revision_id": 23548,
+      "revision_timestamp": "2024-02-07T09:27:11Z"
+    },
+    {
+      "tag": "VALUE_MAX",
+      "url": "https://vasp.at/wiki/VALUE_MAX",
+      "revision_id": 16098,
+      "revision_timestamp": "2022-04-07T14:36:54Z"
+    },
+    {
+      "tag": "VALUE_MIN",
+      "url": "https://vasp.at/wiki/VALUE_MIN",
+      "revision_id": 16100,
+      "revision_timestamp": "2022-04-07T14:38:12Z"
+    },
+    {
+      "tag": "VCA",
+      "url": "https://vasp.at/wiki/VCA",
+      "revision_id": 36620,
+      "revision_timestamp": "2026-06-11T08:37:41Z"
+    },
+    {
+      "tag": "VCAIMAGES",
+      "url": "https://vasp.at/wiki/VCAIMAGES",
+      "revision_id": 36724,
+      "revision_timestamp": "2026-06-11T15:30:54Z"
+    },
+    {
+      "tag": "VCUTOFF",
+      "url": "https://vasp.at/wiki/VCUTOFF",
+      "revision_id": 30233,
+      "revision_timestamp": "2025-03-27T15:21:49Z"
+    },
+    {
+      "tag": "VDW_A1",
+      "url": "https://vasp.at/wiki/VDW_A1",
+      "revision_id": 34370,
+      "revision_timestamp": "2026-03-02T11:06:49Z"
+    },
+    {
+      "tag": "VDW_A2",
+      "url": "https://vasp.at/wiki/VDW_A2",
+      "revision_id": 34372,
+      "revision_timestamp": "2026-03-02T11:10:05Z"
+    },
+    {
+      "tag": "VDW_ALPHA",
+      "url": "https://vasp.at/wiki/VDW_ALPHA",
+      "revision_id": 35850,
+      "revision_timestamp": "2026-04-15T12:21:35Z"
+    },
+    {
+      "tag": "VDW_BETA",
+      "url": "https://vasp.at/wiki/VDW_BETA",
+      "revision_id": 34380,
+      "revision_timestamp": "2026-03-02T11:20:51Z"
+    },
+    {
+      "tag": "VDW_C6",
+      "url": "https://vasp.at/wiki/VDW_C6",
+      "revision_id": 24048,
+      "revision_timestamp": "2024-02-09T09:59:07Z"
+    },
+    {
+      "tag": "VDW_C6AU",
+      "url": "https://vasp.at/wiki/VDW_C6AU",
+      "revision_id": 24063,
+      "revision_timestamp": "2024-02-09T10:04:20Z"
+    },
+    {
+      "tag": "VDW_CNRADIUS",
+      "url": "https://vasp.at/wiki/VDW_CNRADIUS",
+      "revision_id": 34377,
+      "revision_timestamp": "2026-03-02T11:16:11Z"
+    },
+    {
+      "tag": "VDW_D",
+      "url": "https://vasp.at/wiki/VDW_D",
+      "revision_id": 24050,
+      "revision_timestamp": "2024-02-09T09:59:16Z"
+    },
+    {
+      "tag": "VDW_R0",
+      "url": "https://vasp.at/wiki/VDW_R0",
+      "revision_id": 24041,
+      "revision_timestamp": "2024-02-09T09:57:42Z"
+    },
+    {
+      "tag": "VDW_R0AU",
+      "url": "https://vasp.at/wiki/VDW_R0AU",
+      "revision_id": 24059,
+      "revision_timestamp": "2024-02-09T10:03:18Z"
+    },
+    {
+      "tag": "VDW_RADIUS",
+      "url": "https://vasp.at/wiki/VDW_RADIUS",
+      "revision_id": 34376,
+      "revision_timestamp": "2026-03-02T11:15:13Z"
+    },
+    {
+      "tag": "VDW_S6",
+      "url": "https://vasp.at/wiki/VDW_S6",
+      "revision_id": 34373,
+      "revision_timestamp": "2026-03-02T11:11:23Z"
+    },
+    {
+      "tag": "VDW_S8",
+      "url": "https://vasp.at/wiki/VDW_S8",
+      "revision_id": 34384,
+      "revision_timestamp": "2026-03-02T11:32:20Z"
+    },
+    {
+      "tag": "VDW_S9",
+      "url": "https://vasp.at/wiki/VDW_S9",
+      "revision_id": 34383,
+      "revision_timestamp": "2026-03-02T11:27:32Z"
+    },
+    {
+      "tag": "VDW_SR",
+      "url": "https://vasp.at/wiki/VDW_SR",
+      "revision_id": 34374,
+      "revision_timestamp": "2026-03-02T11:12:32Z"
+    },
+    {
+      "tag": "VDW_SR8",
+      "url": "https://vasp.at/wiki/VDW_SR8",
+      "revision_id": 34368,
+      "revision_timestamp": "2026-03-02T11:04:00Z"
+    },
+    {
+      "tag": "VELOCITY",
+      "url": "https://vasp.at/wiki/VELOCITY",
+      "revision_id": 32707,
+      "revision_timestamp": "2025-10-22T12:19:46Z"
+    },
+    {
+      "tag": "VOSKOWN",
+      "url": "https://vasp.at/wiki/VOSKOWN",
+      "revision_id": 17005,
+      "revision_timestamp": "2022-04-08T14:55:36Z"
+    },
+    {
+      "tag": "WANNIER90_WIN",
+      "url": "https://vasp.at/wiki/WANNIER90_WIN",
+      "revision_id": 22341,
+      "revision_timestamp": "2023-10-20T08:29:56Z"
+    },
+    {
+      "tag": "WC",
+      "url": "https://vasp.at/wiki/WC",
+      "revision_id": 27059,
+      "revision_timestamp": "2024-10-17T14:45:09Z"
+    },
+    {
+      "tag": "WEIMIN",
+      "url": "https://vasp.at/wiki/WEIMIN",
+      "revision_id": 27056,
+      "revision_timestamp": "2024-10-17T14:43:07Z"
+    },
+    {
+      "tag": "WRT_DENSITY",
+      "url": "https://vasp.at/wiki/WRT_DENSITY",
+      "revision_id": 34637,
+      "revision_timestamp": "2026-03-12T09:25:44Z"
+    },
+    {
+      "tag": "WRT_NMRCUR",
+      "url": "https://vasp.at/wiki/WRT_NMRCUR",
+      "revision_id": 35862,
+      "revision_timestamp": "2026-04-15T12:29:27Z"
+    },
+    {
+      "tag": "WRT_POTENTIAL",
+      "url": "https://vasp.at/wiki/WRT_POTENTIAL",
+      "revision_id": 34638,
+      "revision_timestamp": "2026-03-12T09:29:26Z"
+    },
+    {
+      "tag": "XC",
+      "url": "https://vasp.at/wiki/XC",
+      "revision_id": 34547,
+      "revision_timestamp": "2026-03-08T21:41:55Z"
+    },
+    {
+      "tag": "XCM_PN",
+      "url": "https://vasp.at/wiki/XCm_Pn",
+      "revision_id": 34551,
+      "revision_timestamp": "2026-03-08T21:46:03Z"
+    },
+    {
+      "tag": "XC_C",
+      "url": "https://vasp.at/wiki/XC_C",
+      "revision_id": 34353,
+      "revision_timestamp": "2026-02-27T15:10:12Z"
+    },
+    {
+      "tag": "ZAB_VDW",
+      "url": "https://vasp.at/wiki/ZAB_VDW",
+      "revision_id": 24544,
+      "revision_timestamp": "2024-05-08T07:19:01Z"
+    }
+  ]
+}

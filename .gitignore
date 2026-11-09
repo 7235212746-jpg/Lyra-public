@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.lyra-cache/
+*.py[cod]
+.venv/
+.venv-build/
+build/
+dist/
+*.spec
+Lyra.exe
+archive/legacy-exe/
+*.egg-info/
+.coverage
+htmlcov/
+outputs/
